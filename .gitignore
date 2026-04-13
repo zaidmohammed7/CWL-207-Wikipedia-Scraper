@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+test_nodes.csv
+test_edges.csv
+test_phase1.py
+test_phase2.py

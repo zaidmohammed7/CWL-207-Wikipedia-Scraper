@@ -1,0 +1,1375 @@
+Source,Target,Type,Relation
+Punit Malhotra,Suneel_Darshan,Directed,PARENT
+Punit Malhotra,Dharmesh_Darshan,Directed,PARENT
+Punit Malhotra,David_Dhawan,Directed,PARENT
+Punit Malhotra,Varun_Dhawan,Directed,COUSIN
+Punit Malhotra,Manish_Malhotra,Directed,UNCLE
+Shashi Kapoor,Jennifer_Kendal,Directed,SPOUSE
+Shashi Kapoor,"Kunal_Kapoor_(actor,_born_1959)",Directed,CHILD
+Shashi Kapoor,Karan_Kapoor,Directed,CHILD
+Shashi Kapoor,Sanjana_Kapoor,Directed,CHILD
+Shashi Kapoor,Prithviraj_Kapoor,Directed,PARENT
+Shashi Kapoor,Kapoor_family,Directed,RELATIVE
+Rajiv Kapoor,terminal_Rajiv Kapoor_Aarti_Jha_m_2001_div_2003,Directed,SPOUSE
+Rajiv Kapoor,Raj_Kapoor,Directed,PARENT
+Rajiv Kapoor,Kapoor_family,Directed,RELATIVE
+Karisma Kapoor,Sunjay_Kapur,Directed,SPOUSE
+Karisma Kapoor,terminal_Karisma Kapoor_2,Directed,CHILD
+Karisma Kapoor,Randhir_Kapoor,Directed,PARENT
+Karisma Kapoor,Babita_Kapoor,Directed,PARENT
+Karisma Kapoor,Kapoor_family,Directed,RELATIVE
+Piyush Jha,terminal_Piyush Jha_Priyanka_Sinha_Jha,Directed,SPOUSE
+Kareena Kapoor Khan,Saif_Ali_Khan,Directed,SPOUSE
+Kareena Kapoor Khan,terminal_Kareena Kapoor Khan_2,Directed,CHILD
+Kareena Kapoor Khan,Kapoor_family,Directed,RELATIVE
+Kareena Kapoor Khan,Pataudi_family,Directed,RELATIVE
+Dharmesh Darshan,Bhatt_family,Directed,RELATIVE
+R. Balki,Gauri_Shinde,Directed,SPOUSE
+Hemant Madhukar,terminal_Hemant Madhukar_Tripta_Madhukar,Directed,SPOUSE
+Soni Razdan,Mahesh_Bhatt,Directed,SPOUSE
+Soni Razdan,Alia_Bhatt,Directed,CHILD
+Soni Razdan,Bhatt_family,Directed,RELATIVE
+Jennifer Kendal,Shashi_Kapoor,Directed,SPOUSE
+Jennifer Kendal,"Kunal_Kapoor_(actor,_born_1959)",Directed,CHILD
+Jennifer Kendal,Karan_Kapoor,Directed,CHILD
+Jennifer Kendal,Sanjana_Kapoor,Directed,CHILD
+Jennifer Kendal,Felicity_Kendal,Directed,SIBLING
+Jennifer Kendal,Kapoor_family,Directed,SIBLING
+Joe Rajan,terminal_Joe Rajan_Rochelle_D_Souza,Directed,SPOUSE
+Joe Rajan,terminal_Joe Rajan_2,Directed,CHILD
+Raj Kapoor,terminal_Raj Kapoor_Krishna_Malhotra_m_1946,Directed,SPOUSE
+Raj Kapoor,Randhir_Kapoor,Directed,CHILD
+Raj Kapoor,Rishi_Kapoor,Directed,CHILD
+Raj Kapoor,Rajiv_Kapoor,Directed,CHILD
+Raj Kapoor,Prithviraj_Kapoor,Directed,PARENT
+Raj Kapoor,terminal_Raj Kapoor_Ramsarni_Mehra_Kapoor_mother,Directed,PARENT
+Raj Kapoor,Kapoor_family,Directed,RELATIVE
+Subhash Ghai,terminal_Subhash Ghai_Mukta_Ghai_m_1970,Directed,SPOUSE
+Subhash Ghai,terminal_Subhash Ghai_2,Directed,CHILD
+Nanabhai Bhatt,terminal_Nanabhai Bhatt_Hemlata_Bhatt,Directed,SPOUSE
+Nanabhai Bhatt,Mahesh_Bhatt,Directed,CHILD
+Nanabhai Bhatt,Mukesh_Bhatt,Directed,CHILD
+Nanabhai Bhatt,Robin_Bhatt,Directed,CHILD
+Nanabhai Bhatt,Bhatt_family,Directed,RELATIVE
+Shyam Benegal,terminal_Shyam Benegal_Nira_Benegal,Directed,SPOUSE
+Shyam Benegal,terminal_Shyam Benegal_1,Directed,CHILD
+Shyam Benegal,Guru_Dutt,Directed,COUSIN
+Aditya Bhattacharya,Sanjana_Kapoor,Directed,SPOUSE
+Aditya Bhattacharya,Basu_Bhattacharya,Directed,PARENT
+Aditya Bhattacharya,Rinki_Bhattacharya,Directed,PARENT
+Chetan Anand (director),Uma_Anand,Directed,SPOUSE
+Chetan Anand (director),Ketan_Anand,Directed,CHILD
+Chetan Anand (director),List_of_Hindi_film_clans#Anand-Sahni_family,Directed,RELATIVE
+Chetan Anand (director),Anand_family,Directed,RELATIVE
+Shagufta Rafique,Sayeeda_Khan,Directed,SIBLING
+Himanshu Rai,Devika_Rani,Directed,SPOUSE
+Himanshu Rai,terminal_Himanshu Rai_Nilima_Dietze_Hainlin_1926_1997,Directed,CHILD
+Girish Karnad,terminal_Girish Karnad_Saraswathy_Ganapathy,Directed,SPOUSE
+Girish Karnad,Raghu_Karnad,Directed,CHILD
+Aishwarya Rai Bachchan,Abhishek_Bachchan,Directed,SPOUSE
+Aishwarya Rai Bachchan,terminal_Aishwarya Rai Bachchan_1,Directed,CHILD
+Aishwarya Rai Bachchan,Bachchan_family,Directed,RELATIVE
+Kamal Amrohi,Meena_Kumari,Directed,SPOUSE
+Kamal Amrohi,terminal_Kamal Amrohi_3,Directed,CHILD
+Nikkhil Advani,terminal_Nikkhil Advani_Suparna_Gupta,Directed,SPOUSE
+Nikkhil Advani,terminal_Nikkhil Advani_1,Directed,CHILD
+Asrani,Manju_Asrani,Directed,SPOUSE
+Rajat Kapoor,terminal_Rajat Kapoor_Meenal_Agarwal_m_1996,Directed,SPOUSE
+Rajat Kapoor,terminal_Rajat Kapoor_2,Directed,CHILD
+Valmik Thapar,Sanjana_Kapoor,Directed,SPOUSE
+Valmik Thapar,terminal_Valmik Thapar_Hamir_Thapar,Directed,CHILD
+Valmik Thapar,Romesh_Thapar,Directed,PARENT
+Valmik Thapar,Romila_Thapar,Directed,AUNT
+Valmik Thapar,Daya_Ram_Thapar,Directed,AUNT
+Valmik Thapar,Pran_Nath_Thapar,Directed,AUNT
+Shammi Kapoor,Geeta_Bali,Directed,SPOUSE
+Shammi Kapoor,Aditya_Raj_Kapoor,Directed,CHILD
+Shammi Kapoor,Prithviraj_Kapoor,Directed,PARENT
+Shammi Kapoor,terminal_Shammi Kapoor_Ramsarni_Mehra_Kapoor_mother,Directed,PARENT
+Shammi Kapoor,Kapoor_family,Directed,RELATIVE
+Subbiraj,Kumari_Naaz,Directed,SPOUSE
+Ketan Anand,Chetan_Anand_(director),Directed,PARENT
+Ketan Anand,Uma_Anand,Directed,PARENT
+Ketan Anand,Anand_family,Directed,RELATIVE
+Sanjana Kapoor,Aditya_Bhattacharya,Directed,SPOUSE
+Sanjana Kapoor,Valmik_Thapar,Directed,SPOUSE
+Sanjana Kapoor,terminal_Sanjana Kapoor_1,Directed,CHILD
+Sanjana Kapoor,Kapoor_family,Directed,RELATIVE
+"Mazhar Khan (actor, born 1955)","terminal_Mazhar Khan (actor, born 1955)_Rubaina_Separated",Directed,SPOUSE
+"Mazhar Khan (actor, born 1955)",Zeenat_Aman,Directed,SPOUSE
+"Mazhar Khan (actor, born 1955)","terminal_Mazhar Khan (actor, born 1955)_3",Directed,CHILD
+Karan Kapoor,terminal_Karan Kapoor_Lorna_Kapoor,Directed,SPOUSE
+Karan Kapoor,terminal_Karan Kapoor_2,Directed,CHILD
+Karan Kapoor,Kapoor_family,Directed,RELATIVE
+Indrajit Nattoji,terminal_Indrajit Nattoji_Nandita_Nattoji,Directed,SPOUSE
+Amjad Khan (actor),terminal_Amjad Khan (actor)_Shehla_Khan,Directed,SPOUSE
+Amjad Khan (actor),Shadaab_Khan,Directed,CHILD
+Amjad Khan (actor),Jayant_(actor),Directed,PARENT
+Amjad Khan (actor),Imtiaz_Khan,Directed,SIBLING
+Amjad Khan (actor),Akhtar_ul_Iman,Directed,SIBLING
+Amjad Khan (actor),Zafar_Karachiwala,Directed,SIBLING
+Yogesh Mittal,terminal_Yogesh Mittal_Shilpa_Mittal_2013_present,Directed,SPOUSE
+Surinder Kapoor,terminal_Surinder Kapoor_Nirmal_Kapoor_m_1955,Directed,SPOUSE
+Surinder Kapoor,Boney_Kapoor,Directed,CHILD
+Surinder Kapoor,Anil_Kapoor,Directed,CHILD
+Surinder Kapoor,Sanjay_Kapoor,Directed,CHILD
+Surinder Kapoor,Prithviraj_Kapoor,Directed,COUSIN
+Surinder Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,COUSIN
+Kalpana Lajmi,Lalita_Lajmi,Directed,PARENT
+Kalpana Lajmi,Guru_Dutt,Directed,UNCLE
+Kalpana Lajmi,Atma_Ram_(director),Directed,UNCLE
+Sombhu Mitra,Tripti_Mitra,Directed,SPOUSE
+Sombhu Mitra,Shaoli_Mitra,Directed,CHILD
+Sanjay Gadhvi,terminal_Sanjay Gadhvi_Gina,Directed,SPOUSE
+Sanjay Gadhvi,terminal_Sanjay Gadhvi_2,Directed,CHILD
+Sajid Nadiadwala,Divya_Bharti,Directed,SPOUSE
+Boney Kapoor,Mona_Shourie_Kapoor,Directed,SPOUSE
+Boney Kapoor,Sridevi,Directed,SPOUSE
+Boney Kapoor,Arjun_Kapoor,Directed,CHILD
+Boney Kapoor,Janhvi_Kapoor,Directed,CHILD
+Boney Kapoor,Khushi_Kapoor,Directed,CHILD
+Boney Kapoor,Surinder_Kapoor,Directed,PARENT
+Boney Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Ravi Chopra,terminal_Ravi Chopra_Renu_Chopra_m_1975,Directed,SPOUSE
+Ravi Chopra,terminal_Ravi Chopra_2,Directed,CHILD
+Ravi Chopra,B.R._Chopra,Directed,PARENT
+Ravi Chopra,List_of_Hindi_film_clans#Chopra_family,Directed,RELATIVE
+Guru Dutt,Geeta_Dutt,Directed,SPOUSE
+Guru Dutt,terminal_Guru Dutt_3,Directed,CHILD
+Guru Dutt,Atma_Ram_(director),Directed,SIBLING
+Guru Dutt,Lalita_Lajmi,Directed,SIBLING
+Guru Dutt,Kalpana_Lajmi,Directed,NIECE
+Guru Dutt,Shyam_Benegal,Directed,COUSIN
+Mahesh Bhatt filmography,Bhatt_family,Directed,RELATIVE
+Smilie Suri,Bhatt_family,Directed,RELATIVE
+S. A. Chandrasekhar,Shoba_Chandrasekhar,Directed,SPOUSE
+S. A. Chandrasekhar,Vijay_(actor),Directed,CHILD
+S. A. Chandrasekhar,Vikranth,Directed,NEPHEW
+S. A. Chandrasekhar,S._N._Surendar,Directed,NEPHEW
+Kashinath (actor),terminal_Kashinath (actor)_Chandraprabha,Directed,SPOUSE
+Kashinath (actor),terminal_Kashinath (actor)_2,Directed,CHILD
+Aditya Raj Kapoor,terminal_Aditya Raj Kapoor_Priti_Kapoor_m_1982,Directed,SPOUSE
+Aditya Raj Kapoor,terminal_Aditya Raj Kapoor_2,Directed,CHILD
+Aditya Raj Kapoor,Shammi_Kapoor,Directed,PARENT
+Aditya Raj Kapoor,Geeta_Bali,Directed,PARENT
+Aditya Raj Kapoor,Kapoor_family,Directed,RELATIVE
+Janhvi Kapoor,Boney_Kapoor,Directed,PARENT
+Janhvi Kapoor,Sridevi,Directed,PARENT
+Janhvi Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Babita,Randhir_Kapoor,Directed,SPOUSE
+Babita,Karisma_Kapoor,Directed,CHILD
+Babita,Kareena_Kapoor_Khan,Directed,CHILD
+Babita,Kapoor_family,Directed,RELATIVE
+Agathiyan,Vijayalakshmi_Agathiyan,Directed,CHILD
+Agathiyan,Niranjani_Ahathian,Directed,CHILD
+Agathiyan,Thiru_(director),Directed,CHILD
+I. S. Johar,Sonia_Sahni,Directed,SPOUSE
+I. S. Johar,terminal_I. S. Johar_and_three_others,Directed,SPOUSE
+I. S. Johar,terminal_I. S. Johar_2,Directed,CHILD
+Kumari Naaz,Subbiraj,Directed,SPOUSE
+Siddharth P. Malhotra,Prem_Kishen,Directed,PARENT
+Siddharth P. Malhotra,Prem_Nath,Directed,PARENT
+Siddharth P. Malhotra,Rajendra_Nath,Directed,PARENT
+Siddharth P. Malhotra,Narendra_Nath,Directed,PARENT
+Ramkumar Bohra,terminal_Ramkumar Bohra_Madankumari_Bohra_m_1932_died_1991,Directed,SPOUSE
+Ramkumar Bohra,terminal_Ramkumar Bohra_3,Directed,CHILD
+Ramkumar Bohra,Karanvir_Bohra,Directed,CHILD
+Abhishek Pathak,Shivaleeka_Oberoi,Directed,SPOUSE
+Abhishek Pathak,terminal_Abhishek Pathak_Kumar_Mangat_Pathak_father,Directed,PARENT
+Abhishek Pathak,terminal_Abhishek Pathak_Neelam_Pathak_mother,Directed,PARENT
+Abhishek Pathak,Amita_Pathak,Directed,SIBLING
+Khushi Kapoor,Boney_Kapoor,Directed,PARENT
+Khushi Kapoor,Sridevi,Directed,PARENT
+Khushi Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Harivansh Rai Bachchan,Teji_Bachchan,Directed,SPOUSE
+Harivansh Rai Bachchan,Amitabh_Bachchan,Directed,CHILD
+Harivansh Rai Bachchan,Bachchan_family,Directed,RELATIVE
+Harsh Varrdhan Kapoor,Anil_Kapoor,Directed,PARENT
+Harsh Varrdhan Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Udita Goswami,Mohit_Suri,Directed,SPOUSE
+Udita Goswami,terminal_Udita Goswami_2,Directed,CHILD
+Udita Goswami,Bhatt_family,Directed,RELATIVE
+Imtiaz Ali (director),terminal_Imtiaz Ali (director)_Preety_Ali_m_1995,Directed,SPOUSE
+Imtiaz Ali (director),terminal_Imtiaz Ali (director)_1,Directed,CHILD
+Imtiaz Ali (director),Khalid_Ahmed,Directed,UNCLE
+J. P. Dutta,Bindiya_Goswami,Directed,SPOUSE
+Mahesh Bhatt,terminal_Mahesh Bhatt_Lorraine_Bright_m_1970,Directed,SPOUSE
+Mahesh Bhatt,Soni_Razdan,Directed,SPOUSE
+Mahesh Bhatt,Nanabhai_Bhatt,Directed,PARENT
+Mahesh Bhatt,Bhatt_family,Directed,RELATIVE
+Saif Ali Khan,Amrita_Singh,Directed,SPOUSE
+Saif Ali Khan,Kareena_Kapoor,Directed,SPOUSE
+Saif Ali Khan,Sara_Ali_Khan,Directed,CHILD
+Saif Ali Khan,Ibrahim_Ali_Khan_(actor),Directed,CHILD
+Saif Ali Khan,Mansoor_Ali_Khan_Pataudi,Directed,PARENT
+Saif Ali Khan,Sharmila_Tagore,Directed,PARENT
+Saif Ali Khan,Pataudi_family,Directed,RELATIVE
+Lawrence D'Souza,terminal_Lawrence D'Souza_Andria_D_Souza,Directed,CHILD
+Robin Bhatt,Nanabhai_Bhatt,Directed,PARENT
+Robin Bhatt,terminal_Robin Bhatt_Hemlata_Bhatt_mother,Directed,PARENT
+Robin Bhatt,Bhatt_family,Directed,RELATIVE
+Rahul Bhatt,Bhatt_family,Directed,RELATIVE
+Teji Bachchan,Harivansh_Rai_Bachchan,Directed,SPOUSE
+Teji Bachchan,Amitabh_Bachchan,Directed,CHILD
+Teji Bachchan,Bachchan_family,Directed,RELATIVE
+Eeshwar Nivas,terminal_Eeshwar Nivas_Priyanka,Directed,SPOUSE
+Eeshwar Nivas,terminal_Eeshwar Nivas_2,Directed,CHILD
+Rishi Kapoor,Neetu_Singh,Directed,SPOUSE
+Rishi Kapoor,Ranbir_Kapoor,Directed,CHILD
+Rishi Kapoor,Raj_Kapoor,Directed,PARENT
+Rishi Kapoor,Kapoor_family,Directed,RELATIVE
+Ravindra Kapoor,Kamal_Kapoor,Directed,SIBLING
+Ravindra Kapoor,Prithviraj_Kapoor,Directed,COUSIN
+Ravindra Kapoor,Kapil_Kapoor,Directed,NEPHEW
+Ravindra Kapoor,Kapoor_family,Directed,RELATIVE
+Ravindra Kapoor,List_of_Hindi_film_families#Behl_family,Directed,RELATIVE
+Pooja Bhatt,Manish_Makhija,Directed,SPOUSE
+Pooja Bhatt,Mahesh_Bhatt,Directed,PARENT
+Pooja Bhatt,Bhatt_family,Directed,RELATIVE
+Shomu Mukherjee,Tanuja,Directed,SPOUSE
+Shomu Mukherjee,Kajol,Directed,CHILD
+Shomu Mukherjee,Tanisha_Mukherjee,Directed,CHILD
+Shomu Mukherjee,Ram_Mukherjee,Directed,RELATIVE
+Shomu Mukherjee,Mukherjee-Samarth_family,Directed,RELATIVE
+Shomu Mukherjee,Ganguly_family,Directed,RELATIVE
+Rhea Kapoor,terminal_Rhea Kapoor_Karan_Boolani_m_2021,Directed,SPOUSE
+Rhea Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+"Kunal Kapoor (actor, born 1959)","terminal_Kunal Kapoor (actor, born 1959)_Sheena_Sippy_divorced",Directed,SPOUSE
+Mona Shourie Kapoor,Boney_Kapoor,Directed,SPOUSE
+Mona Shourie Kapoor,Arjun_Kapoor,Directed,CHILD
+Nikhil Nanda,Shweta_Bachchan_Nanda,Directed,SPOUSE
+Nikhil Nanda,terminal_Nikhil Nanda_2,Directed,CHILD
+Nikhil Nanda,Kapoor_family,Directed,RELATIVE
+Nikhil Nanda,Bachchan_family,Directed,RELATIVE
+Abhishek Jain,terminal_Abhishek Jain_Nayan_Jain_Brother,Directed,SIBLING
+Bejoy Nambiar,Juhi_Babbar,Directed,SPOUSE
+Bejoy Nambiar,Sheetal_Menon,Directed,SPOUSE
+Shimit Amin,Megha_Ramaswamy,Directed,SPOUSE
+Sanjay Kapoor,terminal_Sanjay Kapoor_Maheep_Kapoor_m_1997,Directed,SPOUSE
+Sanjay Kapoor,terminal_Sanjay Kapoor_2,Directed,CHILD
+Sanjay Kapoor,Surinder_Kapoor,Directed,PARENT
+Sanjay Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Tinnu Anand,terminal_Tinnu Anand_Shahnaz_Anand,Directed,SPOUSE
+Tinnu Anand,terminal_Tinnu Anand_2_Isha_Anand_Diksha_Anand,Directed,CHILD
+Tinnu Anand,Inder_Raj_Anand,Directed,PARENT
+Tinnu Anand,Siddharth_Anand,Directed,NEPHEW
+Tinnu Anand,Mukul_Anand,Directed,NEPHEW
+Tinnu Anand,Agha_(actor),Directed,NEPHEW
+Tinnu Anand,Jalal_Agha,Directed,NEPHEW
+Gulzar,Rakhee_Gulzar,Directed,SPOUSE
+Gulzar,Meghna_Gulzar,Directed,CHILD
+Anurag Kashyap,Aarti_Bajaj,Directed,SPOUSE
+Anurag Kashyap,Kalki_Koechlin,Directed,SPOUSE
+Anurag Kashyap,Abhinav_Kashyap,Directed,SIBLING
+Hema Malini,Dharmendra,Directed,SPOUSE
+Hema Malini,Esha_Deol,Directed,CHILD
+Hema Malini,List_of_Hindi_film_clans#Deol_family,Directed,RELATIVE
+Abhishek Bachchan,Aishwarya_Rai,Directed,SPOUSE
+Abhishek Bachchan,terminal_Abhishek Bachchan_1,Directed,CHILD
+Abhishek Bachchan,Amitabh_Bachchan,Directed,PARENT
+Abhishek Bachchan,Jaya_Bhaduri,Directed,PARENT
+Abhishek Bachchan,Bachchan_family,Directed,RELATIVE
+Vikram Bhatt,terminal_Vikram Bhatt_3,Directed,CHILD
+Vikram Bhatt,Pravin_Bhatt,Directed,PARENT
+Vikram Bhatt,Vijay_Bhatt,Directed,PARENT
+Vikram Bhatt,Arun_Bhatt,Directed,PARENT
+Vikram Bhatt,Chirantan_Bhatt,Directed,PARENT
+Vikram Bhatt,List_of_Hindi_film_families#Bhatt_family_(of_Vijay_Bhatt),Directed,RELATIVE
+Geeta Bali,Shammi_Kapoor,Directed,SPOUSE
+Geeta Bali,Aditya_Raj_Kapoor,Directed,CHILD
+Geeta Bali,Kapoor_family,Directed,RELATIVE
+Anil Kapoor,terminal_Anil Kapoor_Sunita_Bhavnani_m_1984,Directed,SPOUSE
+Anil Kapoor,Sonam_Kapoor,Directed,CHILD
+Anil Kapoor,Rhea_Kapoor,Directed,CHILD
+Anil Kapoor,Harsh_Varrdhan_Kapoor,Directed,CHILD
+Anil Kapoor,Surinder_Kapoor,Directed,PARENT
+Anil Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Ajay Devgn,Kajol,Directed,SPOUSE
+Ajay Devgn,terminal_Ajay Devgn_2,Directed,CHILD
+Ajay Devgn,Veeru_Devgan,Directed,PARENT
+Ajay Devgn,Devgan_family,Directed,RELATIVE
+Ajay Devgn,Mukherjee-Samarth_family,Directed,RELATIVE
+Zahan Kapoor,"Kunal_Kapoor_(actor,_born_1959)",Directed,PARENT
+Zahan Kapoor,Kapoor_family,Directed,RELATIVE
+Zoya Akhtar,Javed_Akhtar,Directed,PARENT
+Zoya Akhtar,Honey_Irani,Directed,PARENT
+Zoya Akhtar,List_of_Hindi_film_clans#Akhtar–Azmi–_family,Directed,RELATIVE
+Kunal Kohli,terminal_Kunal Kohli_Ravina_Kohli,Directed,SPOUSE
+Kunal Kohli,terminal_Kunal Kohli_1_daughter,Directed,CHILD
+Kunal Kohli,David_Dhawan,Directed,UNCLE
+Kunal Kohli,Varun_Dhawan,Directed,UNCLE
+Kunal Kohli,Rohit_Dhawan,Directed,UNCLE
+Ashutosh Gowariker,Sunita_Gowariker,Directed,SPOUSE
+A. Bhimsingh,Sukumari,Directed,SPOUSE
+A. Bhimsingh,B._Lenin,Directed,CHILD
+A. Bhimsingh,B._Kannan,Directed,CHILD
+A. Bhimsingh,List_of_South_Indian_film_families#Travancore_family,Directed,RELATIVE
+Arjun Kapoor,Boney_Kapoor,Directed,PARENT
+Arjun Kapoor,Mona_Shourie,Directed,PARENT
+Arjun Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Emraan Hashmi,terminal_Emraan Hashmi_Parveen_Shahani_m_2006,Directed,SPOUSE
+Emraan Hashmi,terminal_Emraan Hashmi_1,Directed,CHILD
+Emraan Hashmi,Bhatt_family,Directed,RELATIVE
+Neetu Singh,Rishi_Kapoor,Directed,SPOUSE
+Neetu Singh,Ranbir_Kapoor,Directed,CHILD
+Neetu Singh,Kapoor_family,Directed,RELATIVE
+Nitya Mehra,terminal_Nitya Mehra_Karan_Kapadiya_m_2015,Directed,SPOUSE
+Alia Bhatt,Ranbir_Kapoor,Directed,SPOUSE
+Alia Bhatt,terminal_Alia Bhatt_1,Directed,CHILD
+Alia Bhatt,Mahesh_Bhatt,Directed,PARENT
+Alia Bhatt,Soni_Razdan,Directed,PARENT
+Alia Bhatt,Bhatt_family,Directed,RELATIVE
+Alia Bhatt,Kapoor_family,Directed,RELATIVE
+Ranbir Kapoor,Alia_Bhatt,Directed,SPOUSE
+Ranbir Kapoor,terminal_Ranbir Kapoor_1,Directed,CHILD
+Ranbir Kapoor,Rishi_Kapoor,Directed,PARENT
+Ranbir Kapoor,Neetu_Singh,Directed,PARENT
+Ranbir Kapoor,Kapoor_family,Directed,RELATIVE
+Jaya Bachchan,Amitabh_Bachchan,Directed,SPOUSE
+Jaya Bachchan,Shweta_Bachchan_Nanda,Directed,CHILD
+Jaya Bachchan,Abhishek_Bachchan,Directed,CHILD
+Jaya Bachchan,Bachchan_family,Directed,RELATIVE
+Vijay Kapoor,terminal_Vijay Kapoor_Veena_Kapoor_m_1963,Directed,SPOUSE
+Vijay Kapoor,terminal_Vijay Kapoor_3,Directed,CHILD
+Vijay Kapoor,Kapoor_family,Directed,RELATIVE
+Randhir Kapoor,Babita,Directed,SPOUSE
+Randhir Kapoor,Karisma_Kapoor,Directed,CHILD
+Randhir Kapoor,Kareena_Kapoor_Khan,Directed,CHILD
+Randhir Kapoor,Raj_Kapoor,Directed,PARENT
+Randhir Kapoor,Kapoor_family,Directed,RELATIVE
+Trilok Kapoor,terminal_Trilok Kapoor_2,Directed,CHILD
+Trilok Kapoor,Kapoor_family,Directed,RELATIVE
+Sonam Kapoor,terminal_Sonam Kapoor_Anand_Ahuja_m_2018,Directed,SPOUSE
+Sonam Kapoor,terminal_Sonam Kapoor_2,Directed,CHILD
+Sonam Kapoor,Anil_Kapoor,Directed,PARENT
+Sonam Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Kamal Kapoor,terminal_Kamal Kapoor_Suman_Devi_m_1945,Directed,SPOUSE
+Kamal Kapoor,terminal_Kamal Kapoor_5_including_Kapil_Kapoor,Directed,CHILD
+Kamal Kapoor,Ravindra_Kapoor,Directed,SIBLING
+Kamal Kapoor,Prithviraj_Kapoor,Directed,SIBLING
+Kamal Kapoor,Ramesh_Behl,Directed,SIBLING
+Kamal Kapoor,Goldie_Behl,Directed,SIBLING
+Kamal Kapoor,Kapoor_family,Directed,RELATIVE
+Kamal Kapoor,List_of_Hindi_film_families#Behl_family,Directed,RELATIVE
+Zahrah S. Khan,Rehmat_Khan,Directed,PARENT
+Zahrah S. Khan,Salma_Agha,Directed,PARENT
+Zahrah S. Khan,Khan_squash_family,Directed,RELATIVE
+Prithviraj Kapoor,terminal_Prithviraj Kapoor_Ramsarni_Mehra_m_1923,Directed,SPOUSE
+Prithviraj Kapoor,Raj_Kapoor,Directed,CHILD
+Prithviraj Kapoor,Shammi_Kapoor,Directed,CHILD
+Prithviraj Kapoor,Shashi_Kapoor,Directed,CHILD
+Prithviraj Kapoor,Kapoor_family,Directed,RELATIVE
+Mohit Suri,Udita_Goswami,Directed,SPOUSE
+Mohit Suri,terminal_Mohit Suri_2,Directed,CHILD
+Mohit Suri,Bhatt_family,Directed,RELATIVE
+Vishesh Bhatt,Bhatt_family,Directed,RELATIVE
+Salma Agha,Jawed_Sheikh,Directed,SPOUSE
+Salma Agha,Rehmat_Khan,Directed,SPOUSE
+Salma Agha,Zara_Khan,Directed,CHILD
+Salma Agha,List_of_Hindi_film_families#Agha_family,Directed,RELATIVE
+Shweta Bachchan Nanda,Nikhil_Nanda,Directed,SPOUSE
+Shweta Bachchan Nanda,terminal_Shweta Bachchan Nanda_2,Directed,CHILD
+Shweta Bachchan Nanda,Amitabh_Bachchan,Directed,PARENT
+Shweta Bachchan Nanda,Jaya_Bhaduri,Directed,PARENT
+Shweta Bachchan Nanda,Bachchan_family,Directed,RELATIVE
+Shweta Bachchan Nanda,Kapoor_family,Directed,RELATIVE
+Dharmesh_Darshan,Bhatt_family,Directed,RELATIVE
+David_Dhawan,terminal_David_Dhawan_Karuna_Dhawan,Directed,SPOUSE
+David_Dhawan,Rohit_Dhawan,Directed,CHILD
+David_Dhawan,Varun_Dhawan,Directed,CHILD
+David_Dhawan,List_of_Hindi_film_clans#Dhawan_family,Directed,RELATIVE
+Varun_Dhawan,terminal_Varun_Dhawan_Natasha_Dalal_m_2021,Directed,SPOUSE
+Varun_Dhawan,terminal_Varun_Dhawan_1,Directed,CHILD
+Varun_Dhawan,David_Dhawan,Directed,PARENT
+Varun_Dhawan,terminal_Varun_Dhawan_Karuna_Dhawan_mother,Directed,PARENT
+Varun_Dhawan,List_of_Hindi_film_clans#Dhawan_family,Directed,RELATIVE
+Jennifer_Kendal,Shashi_Kapoor,Directed,SPOUSE
+Jennifer_Kendal,"Kunal_Kapoor_(actor,_born_1959)",Directed,CHILD
+Jennifer_Kendal,Karan_Kapoor,Directed,CHILD
+Jennifer_Kendal,Sanjana_Kapoor,Directed,CHILD
+Jennifer_Kendal,Felicity_Kendal,Directed,SIBLING
+Jennifer_Kendal,Kapoor_family,Directed,SIBLING
+"Kunal_Kapoor_(actor,_born_1959)","terminal_Kunal_Kapoor_(actor,_born_1959)_Sheena_Sippy_divorced",Directed,SPOUSE
+Karan_Kapoor,terminal_Karan_Kapoor_Lorna_Kapoor,Directed,SPOUSE
+Karan_Kapoor,terminal_Karan_Kapoor_2,Directed,CHILD
+Karan_Kapoor,Kapoor_family,Directed,RELATIVE
+Sanjana_Kapoor,Aditya_Bhattacharya,Directed,SPOUSE
+Sanjana_Kapoor,Valmik_Thapar,Directed,SPOUSE
+Sanjana_Kapoor,terminal_Sanjana_Kapoor_1,Directed,CHILD
+Sanjana_Kapoor,Kapoor_family,Directed,RELATIVE
+Prithviraj_Kapoor,terminal_Prithviraj_Kapoor_Ramsarni_Mehra_m_1923,Directed,SPOUSE
+Prithviraj_Kapoor,Raj_Kapoor,Directed,CHILD
+Prithviraj_Kapoor,Shammi_Kapoor,Directed,CHILD
+Prithviraj_Kapoor,Shashi_Kapoor,Directed,CHILD
+Prithviraj_Kapoor,Kapoor_family,Directed,RELATIVE
+Raj_Kapoor,terminal_Raj_Kapoor_Krishna_Malhotra_m_1946,Directed,SPOUSE
+Raj_Kapoor,Randhir_Kapoor,Directed,CHILD
+Raj_Kapoor,Rishi_Kapoor,Directed,CHILD
+Raj_Kapoor,Rajiv_Kapoor,Directed,CHILD
+Raj_Kapoor,Prithviraj_Kapoor,Directed,PARENT
+Raj_Kapoor,terminal_Raj_Kapoor_Ramsarni_Mehra_Kapoor_mother,Directed,PARENT
+Raj_Kapoor,Kapoor_family,Directed,RELATIVE
+Sunjay_Kapur,Nandita_Mahtani,Directed,SPOUSE
+Sunjay_Kapur,Karisma_Kapoor,Directed,SPOUSE
+Sunjay_Kapur,terminal_Sunjay_Kapur_3,Directed,CHILD
+Randhir_Kapoor,Babita,Directed,SPOUSE
+Randhir_Kapoor,Karisma_Kapoor,Directed,CHILD
+Randhir_Kapoor,Kareena_Kapoor_Khan,Directed,CHILD
+Randhir_Kapoor,Raj_Kapoor,Directed,PARENT
+Randhir_Kapoor,Kapoor_family,Directed,RELATIVE
+Babita_Kapoor,Randhir_Kapoor,Directed,SPOUSE
+Babita_Kapoor,Karisma_Kapoor,Directed,CHILD
+Babita_Kapoor,Kareena_Kapoor_Khan,Directed,CHILD
+Babita_Kapoor,Kapoor_family,Directed,RELATIVE
+Saif_Ali_Khan,Amrita_Singh,Directed,SPOUSE
+Saif_Ali_Khan,Kareena_Kapoor,Directed,SPOUSE
+Saif_Ali_Khan,Sara_Ali_Khan,Directed,CHILD
+Saif_Ali_Khan,Ibrahim_Ali_Khan_(actor),Directed,CHILD
+Saif_Ali_Khan,Mansoor_Ali_Khan_Pataudi,Directed,PARENT
+Saif_Ali_Khan,Sharmila_Tagore,Directed,PARENT
+Saif_Ali_Khan,Pataudi_family,Directed,RELATIVE
+Gauri_Shinde,R._Balki,Directed,SPOUSE
+Mahesh_Bhatt,terminal_Mahesh_Bhatt_Lorraine_Bright_m_1970,Directed,SPOUSE
+Mahesh_Bhatt,Soni_Razdan,Directed,SPOUSE
+Mahesh_Bhatt,Nanabhai_Bhatt,Directed,PARENT
+Mahesh_Bhatt,Bhatt_family,Directed,RELATIVE
+Alia_Bhatt,Ranbir_Kapoor,Directed,SPOUSE
+Alia_Bhatt,terminal_Alia_Bhatt_1,Directed,CHILD
+Alia_Bhatt,Mahesh_Bhatt,Directed,PARENT
+Alia_Bhatt,Soni_Razdan,Directed,PARENT
+Alia_Bhatt,Bhatt_family,Directed,RELATIVE
+Alia_Bhatt,Kapoor_family,Directed,RELATIVE
+Shashi_Kapoor,Jennifer_Kendal,Directed,SPOUSE
+Shashi_Kapoor,"Kunal_Kapoor_(actor,_born_1959)",Directed,CHILD
+Shashi_Kapoor,Karan_Kapoor,Directed,CHILD
+Shashi_Kapoor,Sanjana_Kapoor,Directed,CHILD
+Shashi_Kapoor,Prithviraj_Kapoor,Directed,PARENT
+Shashi_Kapoor,Kapoor_family,Directed,RELATIVE
+Felicity_Kendal,Drewe_Henley,Directed,SPOUSE
+Felicity_Kendal,Michael_Rudman,Directed,SPOUSE
+Felicity_Kendal,Charley_Henley,Directed,CHILD
+Felicity_Kendal,Geoffrey_Kendal,Directed,PARENT
+Felicity_Kendal,terminal_Felicity_Kendal_Laura_Liddell_mother,Directed,PARENT
+Felicity_Kendal,Jennifer_Kendal,Directed,SIBLING
+Rishi_Kapoor,Neetu_Singh,Directed,SPOUSE
+Rishi_Kapoor,Ranbir_Kapoor,Directed,CHILD
+Rishi_Kapoor,Raj_Kapoor,Directed,PARENT
+Rishi_Kapoor,Kapoor_family,Directed,RELATIVE
+Rajiv_Kapoor,terminal_Rajiv_Kapoor_Aarti_Jha_m_2001_div_2003,Directed,SPOUSE
+Rajiv_Kapoor,Raj_Kapoor,Directed,PARENT
+Rajiv_Kapoor,Kapoor_family,Directed,RELATIVE
+Mukesh_Bhatt,terminal_Mukesh_Bhatt_Neelima_Bhatt,Directed,SPOUSE
+Mukesh_Bhatt,Vishesh_Bhatt,Directed,CHILD
+Mukesh_Bhatt,Nanabhai_Bhatt,Directed,PARENT
+Mukesh_Bhatt,terminal_Mukesh_Bhatt_Shirin_Mohammed_Ali_mother,Directed,PARENT
+Mukesh_Bhatt,Bhatt_family,Directed,RELATIVE
+Robin_Bhatt,Nanabhai_Bhatt,Directed,PARENT
+Robin_Bhatt,terminal_Robin_Bhatt_Hemlata_Bhatt_mother,Directed,PARENT
+Robin_Bhatt,Bhatt_family,Directed,RELATIVE
+Guru_Dutt,Geeta_Dutt,Directed,SPOUSE
+Guru_Dutt,terminal_Guru_Dutt_3,Directed,CHILD
+Guru_Dutt,Atma_Ram_(director),Directed,SIBLING
+Guru_Dutt,Lalita_Lajmi,Directed,SIBLING
+Guru_Dutt,Kalpana_Lajmi,Directed,NIECE
+Guru_Dutt,Shyam_Benegal,Directed,COUSIN
+Basu_Bhattacharya,Rinki_Bhattacharya,Directed,SPOUSE
+Basu_Bhattacharya,Aditya_Bhattacharya,Directed,CHILD
+Rinki_Bhattacharya,Basu_Bhattacharya,Directed,SPOUSE
+Rinki_Bhattacharya,Aditya_Bhattacharya,Directed,CHILD
+Rinki_Bhattacharya,Bimal_Roy,Directed,PARENT
+Uma_Anand,Chetan_Anand_(director),Directed,SPOUSE
+Uma_Anand,Ketan_Anand,Directed,CHILD
+Uma_Anand,Anand_family,Directed,RELATIVE
+Ketan_Anand,Chetan_Anand_(director),Directed,PARENT
+Ketan_Anand,Uma_Anand,Directed,PARENT
+Ketan_Anand,Anand_family,Directed,RELATIVE
+Sayeeda_Khan,Brij_Sadanah,Directed,SPOUSE
+Sayeeda_Khan,Kamal_Sadanah,Directed,CHILD
+Sayeeda_Khan,Shagufta_Rafique,Directed,SIBLING
+Sayeeda_Khan,Jyothika,Directed,SIBLING
+Devika_Rani,Himanshu_Rai,Directed,SPOUSE
+Devika_Rani,Svetoslav_Roerich,Directed,SPOUSE
+Devika_Rani,Jayanto_Nath_Chaudhuri,Directed,COUSIN
+Devika_Rani,Pramatha_Chaudhuri,Directed,COUSIN
+Devika_Rani,Rabindranath_Tagore,Directed,COUSIN
+Raghu_Karnad,Girish_Karnad,Directed,PARENT
+Abhishek_Bachchan,Aishwarya_Rai,Directed,SPOUSE
+Abhishek_Bachchan,terminal_Abhishek_Bachchan_1,Directed,CHILD
+Abhishek_Bachchan,Amitabh_Bachchan,Directed,PARENT
+Abhishek_Bachchan,Jaya_Bhaduri,Directed,PARENT
+Abhishek_Bachchan,Bachchan_family,Directed,RELATIVE
+Meena_Kumari,Kamal_Amrohi,Directed,SPOUSE
+Meena_Kumari,List_of_Hindi_film_clans#Ali-Amrohi_family,Directed,RELATIVE
+Manju_Asrani,Asrani_(actor),Directed,SPOUSE
+Daya_Ram_Thapar,Romesh_Thapar,Directed,CHILD
+Daya_Ram_Thapar,Romila_Thapar,Directed,CHILD
+Pran_Nath_Thapar,terminal_Pran_Nath_Thapar_Bimla_Thapar,Directed,SPOUSE
+Pran_Nath_Thapar,Karan_Thapar,Directed,CHILD
+Geeta_Bali,Shammi_Kapoor,Directed,SPOUSE
+Geeta_Bali,Aditya_Raj_Kapoor,Directed,CHILD
+Geeta_Bali,Kapoor_family,Directed,RELATIVE
+Aditya_Raj_Kapoor,terminal_Aditya_Raj_Kapoor_Priti_Kapoor_m_1982,Directed,SPOUSE
+Aditya_Raj_Kapoor,terminal_Aditya_Raj_Kapoor_2,Directed,CHILD
+Aditya_Raj_Kapoor,Shammi_Kapoor,Directed,PARENT
+Aditya_Raj_Kapoor,Geeta_Bali,Directed,PARENT
+Aditya_Raj_Kapoor,Kapoor_family,Directed,RELATIVE
+Kumari_Naaz,Subbiraj,Directed,SPOUSE
+Chetan_Anand_(director),Uma_Anand,Directed,SPOUSE
+Chetan_Anand_(director),Ketan_Anand,Directed,CHILD
+Chetan_Anand_(director),List_of_Hindi_film_clans#Anand-Sahni_family,Directed,RELATIVE
+Chetan_Anand_(director),Anand_family,Directed,RELATIVE
+Aditya_Bhattacharya,Sanjana_Kapoor,Directed,SPOUSE
+Aditya_Bhattacharya,Basu_Bhattacharya,Directed,PARENT
+Aditya_Bhattacharya,Rinki_Bhattacharya,Directed,PARENT
+Valmik_Thapar,Sanjana_Kapoor,Directed,SPOUSE
+Valmik_Thapar,terminal_Valmik_Thapar_Hamir_Thapar,Directed,CHILD
+Valmik_Thapar,Romesh_Thapar,Directed,PARENT
+Valmik_Thapar,Romila_Thapar,Directed,AUNT
+Valmik_Thapar,Daya_Ram_Thapar,Directed,AUNT
+Valmik_Thapar,Pran_Nath_Thapar,Directed,AUNT
+Zeenat_Aman,Sanjay_Khan,Directed,SPOUSE
+Zeenat_Aman,"Mazhar_Khan_(actor,_born_1955)",Directed,SPOUSE
+Zeenat_Aman,terminal_Zeenat_Aman_2,Directed,CHILD
+Zeenat_Aman,List_of_Hindi_film_families#Murad–Rai-Aman_family,Directed,RELATIVE
+Shadaab_Khan,terminal_Shadaab_Khan_Rumana_Achwa_m_2005,Directed,SPOUSE
+Shadaab_Khan,Jayant_(actor),Directed,PARENT
+Shadaab_Khan,Akhtar_ul_Iman,Directed,PARENT
+Shadaab_Khan,Imtiaz_Khan,Directed,PARENT
+Shadaab_Khan,Zafar_Karachiwala,Directed,PARENT
+Jayant_(actor),Amjad_Khan_(actor),Directed,CHILD
+Jayant_(actor),Imtiaz_Khan,Directed,CHILD
+Imtiaz_Khan,Kruttika_Desai,Directed,SPOUSE
+Imtiaz_Khan,terminal_Imtiaz_Khan_Ayesha_Khan,Directed,CHILD
+Imtiaz_Khan,Jayant_(actor),Directed,PARENT
+Imtiaz_Khan,Amjad_Khan_(actor),Directed,SIBLING
+Akhtar_ul_Iman,terminal_Akhtar_ul_Iman_Sultana_Iman,Directed,SPOUSE
+Akhtar_ul_Iman,terminal_Akhtar_ul_Iman_4,Directed,CHILD
+Boney_Kapoor,Mona_Shourie_Kapoor,Directed,SPOUSE
+Boney_Kapoor,Sridevi,Directed,SPOUSE
+Boney_Kapoor,Arjun_Kapoor,Directed,CHILD
+Boney_Kapoor,Janhvi_Kapoor,Directed,CHILD
+Boney_Kapoor,Khushi_Kapoor,Directed,CHILD
+Boney_Kapoor,Surinder_Kapoor,Directed,PARENT
+Boney_Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Anil_Kapoor,terminal_Anil_Kapoor_Sunita_Bhavnani_m_1984,Directed,SPOUSE
+Anil_Kapoor,Sonam_Kapoor,Directed,CHILD
+Anil_Kapoor,Rhea_Kapoor,Directed,CHILD
+Anil_Kapoor,Harsh_Varrdhan_Kapoor,Directed,CHILD
+Anil_Kapoor,Surinder_Kapoor,Directed,PARENT
+Anil_Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Sanjay_Kapoor,terminal_Sanjay_Kapoor_Maheep_Kapoor_m_1997,Directed,SPOUSE
+Sanjay_Kapoor,terminal_Sanjay_Kapoor_2,Directed,CHILD
+Sanjay_Kapoor,Surinder_Kapoor,Directed,PARENT
+Sanjay_Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Lalita_Lajmi,Kalpana_Lajmi,Directed,CHILD
+Lalita_Lajmi,Guru_Dutt,Directed,SIBLING
+Lalita_Lajmi,Atma_Ram_(director),Directed,SIBLING
+Tripti_Mitra,Sombhu_Mitra,Directed,SPOUSE
+Tripti_Mitra,Shaoli_Mitra,Directed,CHILD
+Divya_Bharti,Sajid_Nadiadwala,Directed,SPOUSE
+Mona_Shourie_Kapoor,Boney_Kapoor,Directed,SPOUSE
+Mona_Shourie_Kapoor,Arjun_Kapoor,Directed,CHILD
+Arjun_Kapoor,Boney_Kapoor,Directed,PARENT
+Arjun_Kapoor,Mona_Shourie,Directed,PARENT
+Arjun_Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Janhvi_Kapoor,Boney_Kapoor,Directed,PARENT
+Janhvi_Kapoor,Sridevi,Directed,PARENT
+Janhvi_Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Khushi_Kapoor,Boney_Kapoor,Directed,PARENT
+Khushi_Kapoor,Sridevi,Directed,PARENT
+Khushi_Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Surinder_Kapoor,terminal_Surinder_Kapoor_Nirmal_Kapoor_m_1955,Directed,SPOUSE
+Surinder_Kapoor,Boney_Kapoor,Directed,CHILD
+Surinder_Kapoor,Anil_Kapoor,Directed,CHILD
+Surinder_Kapoor,Sanjay_Kapoor,Directed,CHILD
+Surinder_Kapoor,Prithviraj_Kapoor,Directed,COUSIN
+Surinder_Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,COUSIN
+B.R._Chopra,terminal_B.R._Chopra_Prakash_Chopra,Directed,SPOUSE
+B.R._Chopra,Ravi_Chopra,Directed,CHILD
+B.R._Chopra,List_of_Hindi_film_clans#Chopra_family,Directed,RELATIVE
+Geeta_Dutt,Guru_Dutt,Directed,SPOUSE
+Kalpana_Lajmi,Lalita_Lajmi,Directed,PARENT
+Kalpana_Lajmi,Guru_Dutt,Directed,UNCLE
+Kalpana_Lajmi,Atma_Ram_(director),Directed,UNCLE
+Shyam_Benegal,terminal_Shyam_Benegal_Nira_Benegal,Directed,SPOUSE
+Shyam_Benegal,terminal_Shyam_Benegal_1,Directed,CHILD
+Shyam_Benegal,Guru_Dutt,Directed,COUSIN
+Shoba_Chandrasekhar,S._A._Chandrasekhar,Directed,SPOUSE
+Shoba_Chandrasekhar,Vijay_(actor),Directed,CHILD
+Shoba_Chandrasekhar,S._N._Surendar,Directed,SIBLING
+Vijay_(actor),terminal_Vijay_(actor)_2,Directed,CHILD
+Vijay_(actor),S._A._Chandrasekhar,Directed,PARENT
+Vijay_(actor),Shoba_Chandrasekhar,Directed,PARENT
+Vijay_(actor),List_of_South_Indian_film_families#Chandrasekhar_family,Directed,RELATIVE
+Vikranth,terminal_Vikranth_Maanasa_Hemachandran_m_2009,Directed,SPOUSE
+Vikranth,terminal_Vikranth_2,Directed,CHILD
+Vikranth,Vijay_(actor),Directed,COUSIN
+Vikranth,S._A._Chandrasekhar,Directed,COUSIN
+S._N._Surendar,Viraj_(actor),Directed,CHILD
+S._N._Surendar,Shoba_Chandrasekhar,Directed,SIBLING
+S._N._Surendar,S._A._Chandrasekhar,Directed,SIBLING
+S._N._Surendar,Vijay_(actor),Directed,NEPHEW
+Shammi_Kapoor,Geeta_Bali,Directed,SPOUSE
+Shammi_Kapoor,Aditya_Raj_Kapoor,Directed,CHILD
+Shammi_Kapoor,Prithviraj_Kapoor,Directed,PARENT
+Shammi_Kapoor,terminal_Shammi_Kapoor_Ramsarni_Mehra_Kapoor_mother,Directed,PARENT
+Shammi_Kapoor,Kapoor_family,Directed,RELATIVE
+Karisma_Kapoor,Sunjay_Kapur,Directed,SPOUSE
+Karisma_Kapoor,terminal_Karisma_Kapoor_2,Directed,CHILD
+Karisma_Kapoor,Randhir_Kapoor,Directed,PARENT
+Karisma_Kapoor,Babita_Kapoor,Directed,PARENT
+Karisma_Kapoor,Kapoor_family,Directed,RELATIVE
+Kareena_Kapoor_Khan,Saif_Ali_Khan,Directed,SPOUSE
+Kareena_Kapoor_Khan,terminal_Kareena_Kapoor_Khan_2,Directed,CHILD
+Kareena_Kapoor_Khan,Kapoor_family,Directed,RELATIVE
+Kareena_Kapoor_Khan,Pataudi_family,Directed,RELATIVE
+Vijayalakshmi_Agathiyan,terminal_Vijayalakshmi_Agathiyan_Feroz_Mohammed,Directed,SPOUSE
+Vijayalakshmi_Agathiyan,Niranjani_Ahathian,Directed,SIBLING
+Vijayalakshmi_Agathiyan,Thiru_(director),Directed,SIBLING
+Niranjani_Ahathian,terminal_Niranjani_Ahathian_Desingh_Periyasamy,Directed,SPOUSE
+Niranjani_Ahathian,Vijayalakshmi_Feroz,Directed,SIBLING
+Thiru_(director),terminal_Thiru_(director)_Kani_Thiru,Directed,SPOUSE
+Thiru_(director),terminal_Thiru_(director)_2,Directed,CHILD
+Thiru_(director),Agathiyan,Directed,PARENT
+Thiru_(director),Vijayalakshmi,Directed,PARENT
+Thiru_(director),Niranjani_Ahathian,Directed,PARENT
+Sonia_Sahni,terminal_Sonia_Sahni_Shivendra_Singh_Goyal_died_1990,Directed,SPOUSE
+Sonia_Sahni,terminal_Sonia_Sahni_1,Directed,CHILD
+Prem_Kishen,Prem_Nath,Directed,PARENT
+Prem_Kishen,Bina_Rai,Directed,PARENT
+Prem_Nath,Bina_Rai,Directed,SPOUSE
+Prem_Nath,Prem_Krishen,Directed,CHILD
+Prem_Nath,Rajendra_Nath,Directed,SIBLING
+Prem_Nath,Narendra_Nath,Directed,SIBLING
+Prem_Nath,Raj_Kapoor,Directed,SIBLING
+Prem_Nath,Prem_Chopra,Directed,SIBLING
+Prem_Nath,Siddharth_P._Malhotra,Directed,SIBLING
+Rajendra_Nath,Prem_Nath,Directed,SIBLING
+Rajendra_Nath,Narendra_Nath,Directed,SIBLING
+Rajendra_Nath,Raj_Kapoor,Directed,SIBLING
+Rajendra_Nath,Prem_Chopra,Directed,SIBLING
+Narendra_Nath,Rajendra_Nath,Directed,SIBLING
+Narendra_Nath,Prem_Nath,Directed,SIBLING
+Narendra_Nath,Raj_Kapoor,Directed,SIBLING
+Narendra_Nath,Prem_Chopra,Directed,SIBLING
+Karanvir_Bohra,terminal_Karanvir_Bohra_3,Directed,CHILD
+Karanvir_Bohra,List_of_Hindi_film_clans#Bohra_family,Directed,RELATIVE
+Shivaleeka_Oberoi,Abhishek_Pathak,Directed,SPOUSE
+Amita_Pathak,Raghav_Sachar,Directed,SPOUSE
+Teji_Bachchan,Harivansh_Rai_Bachchan,Directed,SPOUSE
+Teji_Bachchan,Amitabh_Bachchan,Directed,CHILD
+Teji_Bachchan,Bachchan_family,Directed,RELATIVE
+Amitabh_Bachchan,Jaya_Bachchan,Directed,SPOUSE
+Amitabh_Bachchan,Shweta_Bachchan_Nanda,Directed,CHILD
+Amitabh_Bachchan,Abhishek_Bachchan,Directed,CHILD
+Amitabh_Bachchan,Harivansh_Rai_Bachchan,Directed,PARENT
+Amitabh_Bachchan,Teji_Bachchan,Directed,PARENT
+Amitabh_Bachchan,Aishwarya_Rai,Directed,CHILD
+Amitabh_Bachchan,Nikhil_Nanda,Directed,CHILD
+Amitabh_Bachchan,Bachchan_family,Directed,RELATIVE
+Mohit_Suri,Udita_Goswami,Directed,SPOUSE
+Mohit_Suri,terminal_Mohit_Suri_2,Directed,CHILD
+Mohit_Suri,Bhatt_family,Directed,RELATIVE
+Khalid_Ahmed,Imtiaz_Ali_(director),Directed,NEPHEW
+Bindiya_Goswami,Vinod_Mehra,Directed,SPOUSE
+Bindiya_Goswami,J.P._Dutta,Directed,SPOUSE
+Soni_Razdan,Mahesh_Bhatt,Directed,SPOUSE
+Soni_Razdan,Alia_Bhatt,Directed,CHILD
+Soni_Razdan,Bhatt_family,Directed,RELATIVE
+Nanabhai_Bhatt,terminal_Nanabhai_Bhatt_Hemlata_Bhatt,Directed,SPOUSE
+Nanabhai_Bhatt,Mahesh_Bhatt,Directed,CHILD
+Nanabhai_Bhatt,Mukesh_Bhatt,Directed,CHILD
+Nanabhai_Bhatt,Robin_Bhatt,Directed,CHILD
+Nanabhai_Bhatt,Bhatt_family,Directed,RELATIVE
+Amrita_Singh,Saif_Ali_Khan,Directed,SPOUSE
+Amrita_Singh,Sara_Ali_Khan,Directed,CHILD
+Amrita_Singh,Ibrahim_Ali_Khan_(actor),Directed,CHILD
+Amrita_Singh,Rukhsana_Sultana,Directed,PARENT
+Amrita_Singh,"List_of_Hindi_film_families#Khan–Banu_family_(of_Yusuf_Khan_aka_Dilip_Kumar,_Saira_Banu,_and_Nasir_Khan)",Directed,RELATIVE
+Kareena_Kapoor,Saif_Ali_Khan,Directed,SPOUSE
+Kareena_Kapoor,terminal_Kareena_Kapoor_2,Directed,CHILD
+Kareena_Kapoor,Kapoor_family,Directed,RELATIVE
+Kareena_Kapoor,Pataudi_family,Directed,RELATIVE
+Sara_Ali_Khan,Saif_Ali_Khan,Directed,PARENT
+Sara_Ali_Khan,Amrita_Singh,Directed,PARENT
+Sara_Ali_Khan,Pataudi_family,Directed,RELATIVE
+Ibrahim_Ali_Khan_(actor),Saif_Ali_Khan,Directed,PARENT
+Ibrahim_Ali_Khan_(actor),Amrita_Singh,Directed,PARENT
+Ibrahim_Ali_Khan_(actor),Pataudi_family,Directed,RELATIVE
+Mansoor_Ali_Khan_Pataudi,Sharmila_Tagore,Directed,SPOUSE
+Mansoor_Ali_Khan_Pataudi,Iftikhar_Ali_Khan_Pataudi,Directed,PARENT
+Mansoor_Ali_Khan_Pataudi,Sajida_Sultan,Directed,PARENT
+Sharmila_Tagore,Mansoor_Ali_Khan_Pataudi,Directed,SPOUSE
+Sharmila_Tagore,Saif_Ali_Khan,Directed,CHILD
+Sharmila_Tagore,Saba_Ali_Khan,Directed,CHILD
+Sharmila_Tagore,Soha_Ali_Khan,Directed,CHILD
+Sharmila_Tagore,Tagore_family,Directed,RELATIVE
+Sharmila_Tagore,Pataudi_family,Directed,RELATIVE
+Harivansh_Rai_Bachchan,Teji_Bachchan,Directed,SPOUSE
+Harivansh_Rai_Bachchan,Amitabh_Bachchan,Directed,CHILD
+Harivansh_Rai_Bachchan,Bachchan_family,Directed,RELATIVE
+Neetu_Singh,Rishi_Kapoor,Directed,SPOUSE
+Neetu_Singh,Ranbir_Kapoor,Directed,CHILD
+Neetu_Singh,Kapoor_family,Directed,RELATIVE
+Ranbir_Kapoor,Alia_Bhatt,Directed,SPOUSE
+Ranbir_Kapoor,terminal_Ranbir_Kapoor_1,Directed,CHILD
+Ranbir_Kapoor,Rishi_Kapoor,Directed,PARENT
+Ranbir_Kapoor,Neetu_Singh,Directed,PARENT
+Ranbir_Kapoor,Kapoor_family,Directed,RELATIVE
+Kamal_Kapoor,terminal_Kamal_Kapoor_Suman_Devi_m_1945,Directed,SPOUSE
+Kamal_Kapoor,terminal_Kamal_Kapoor_5_including_Kapil_Kapoor,Directed,CHILD
+Kamal_Kapoor,Ravindra_Kapoor,Directed,SIBLING
+Kamal_Kapoor,Prithviraj_Kapoor,Directed,SIBLING
+Kamal_Kapoor,Ramesh_Behl,Directed,SIBLING
+Kamal_Kapoor,Goldie_Behl,Directed,SIBLING
+Kamal_Kapoor,Kapoor_family,Directed,RELATIVE
+Kamal_Kapoor,List_of_Hindi_film_families#Behl_family,Directed,RELATIVE
+Manish_Makhija,Pooja_Bhatt,Directed,SPOUSE
+Manish_Makhija,Masumeh_Makhija,Directed,NIECE
+Tanuja,Shomu_Mukherjee,Directed,SPOUSE
+Tanuja,Kajol,Directed,CHILD
+Tanuja,Tanishaa_Mukerji,Directed,CHILD
+Tanuja,Kumarsen_Samarth,Directed,PARENT
+Tanuja,Shobhna_Samarth,Directed,PARENT
+Tanuja,Mukherjee-Samarth_family,Directed,RELATIVE
+Kajol,Ajay_Devgn,Directed,SPOUSE
+Kajol,terminal_Kajol_2,Directed,CHILD
+Kajol,Shomu_Mukherjee,Directed,PARENT
+Kajol,Tanuja,Directed,PARENT
+Kajol,Mukherjee-Samarth_family,Directed,RELATIVE
+Kajol,Devgan_family,Directed,RELATIVE
+Tanisha_Mukherjee,Kajol,Directed,SIBLING
+Tanisha_Mukherjee,Mukherjee-Samarth_family,Directed,SIBLING
+Ram_Mukherjee,terminal_Ram_Mukherjee_Krishna_Mukherjee_m_1972,Directed,SPOUSE
+Ram_Mukherjee,terminal_Ram_Mukherjee_Raja_son,Directed,CHILD
+Ram_Mukherjee,Rani_Mukerji,Directed,CHILD
+Ram_Mukherjee,Mukherjee-Samarth_family,Directed,RELATIVE
+Shweta_Bachchan_Nanda,Nikhil_Nanda,Directed,SPOUSE
+Shweta_Bachchan_Nanda,terminal_Shweta_Bachchan_Nanda_2,Directed,CHILD
+Shweta_Bachchan_Nanda,Amitabh_Bachchan,Directed,PARENT
+Shweta_Bachchan_Nanda,Jaya_Bhaduri,Directed,PARENT
+Shweta_Bachchan_Nanda,Bachchan_family,Directed,RELATIVE
+Shweta_Bachchan_Nanda,Kapoor_family,Directed,RELATIVE
+Juhi_Babbar,Bejoy_Nambiar,Directed,SPOUSE
+Juhi_Babbar,Anup_Soni,Directed,SPOUSE
+Juhi_Babbar,terminal_Juhi_Babbar_1,Directed,CHILD
+Juhi_Babbar,List_of_Hindi_film_clans#Babbar_family,Directed,RELATIVE
+Sheetal_Menon,Bejoy_Nambiar,Directed,SPOUSE
+Inder_Raj_Anand,Tinnu_Anand,Directed,CHILD
+Inder_Raj_Anand,terminal_Inder_Raj_Anand_Bittu_Anand,Directed,CHILD
+Inder_Raj_Anand,Siddharth_Anand,Directed,CHILD
+Inder_Raj_Anand,Mukul_Anand,Directed,NEPHEW
+Siddharth_Anand,terminal_Siddharth_Anand_Mamta_Bhatia,Directed,SPOUSE
+Siddharth_Anand,terminal_Siddharth_Anand_1,Directed,CHILD
+Mukul_Anand,terminal_Mukul_Anand_Anita,Directed,SPOUSE
+Mukul_Anand,terminal_Mukul_Anand_Mikhail_Alishka,Directed,CHILD
+Mukul_Anand,Inder_Raj_Anand,Directed,RELATIVE
+Mukul_Anand,Tinnu_Anand,Directed,RELATIVE
+Agha_(actor),Jalal_Agha,Directed,CHILD
+Agha_(actor),Tinnu_Anand,Directed,CHILD
+Jalal_Agha,Agha_(actor),Directed,PARENT
+Jalal_Agha,Tinnu_Anand,Directed,PARENT
+Rakhee_Gulzar,Gulzar,Directed,SPOUSE
+Rakhee_Gulzar,Meghna_Gulzar,Directed,CHILD
+Meghna_Gulzar,terminal_Meghna_Gulzar_Govind_Sandhu,Directed,SPOUSE
+Aarti_Bajaj,Anurag_Kashyap,Directed,SPOUSE
+Kalki_Koechlin,Anurag_Kashyap,Directed,SPOUSE
+Kalki_Koechlin,terminal_Kalki_Koechlin_Guy_Hershberg_m_2024,Directed,SPOUSE
+Kalki_Koechlin,terminal_Kalki_Koechlin_1,Directed,CHILD
+Kalki_Koechlin,Koechlin_family,Directed,RELATIVE
+Abhinav_Kashyap,terminal_Abhinav_Kashyap_Chatura_Rao_m_1997_div_2017,Directed,SPOUSE
+Abhinav_Kashyap,terminal_Abhinav_Kashyap_2,Directed,CHILD
+Abhinav_Kashyap,Anurag_Kashyap,Directed,SIBLING
+Dharmendra,terminal_Dharmendra_Prakash_Kaur_m_1954,Directed,SPOUSE
+Dharmendra,Hema_Malini,Directed,SPOUSE
+Dharmendra,Sunny_Deol,Directed,CHILD
+Dharmendra,Bobby_Deol,Directed,CHILD
+Dharmendra,Esha_Deol,Directed,CHILD
+Dharmendra,List_of_Hindi_film_families#Deol_family,Directed,RELATIVE
+Esha_Deol,terminal_Esha_Deol_Bharat_Takhtani_m_2012_div_2024,Directed,SPOUSE
+Esha_Deol,terminal_Esha_Deol_2,Directed,CHILD
+Esha_Deol,Dharmendra,Directed,PARENT
+Esha_Deol,Hema_Malini,Directed,PARENT
+Esha_Deol,List_of_Hindi_film_clans#Deol_family,Directed,RELATIVE
+Aishwarya_Rai,Abhishek_Bachchan,Directed,SPOUSE
+Aishwarya_Rai,terminal_Aishwarya_Rai_1,Directed,CHILD
+Aishwarya_Rai,Bachchan_family,Directed,RELATIVE
+Jaya_Bhaduri,Amitabh_Bachchan,Directed,SPOUSE
+Jaya_Bhaduri,Shweta_Bachchan_Nanda,Directed,CHILD
+Jaya_Bhaduri,Abhishek_Bachchan,Directed,CHILD
+Jaya_Bhaduri,Bachchan_family,Directed,RELATIVE
+Vijay_Bhatt,terminal_Vijay_Bhatt_Rama_Bhatt,Directed,SPOUSE
+Vijay_Bhatt,Pravin_Bhatt,Directed,CHILD
+Vijay_Bhatt,Arun_Bhatt,Directed,CHILD
+Vijay_Bhatt,Vikram_Bhatt,Directed,CHILD
+Vijay_Bhatt,Chirantan_Bhatt,Directed,CHILD
+Sonam_Kapoor,terminal_Sonam_Kapoor_Anand_Ahuja_m_2018,Directed,SPOUSE
+Sonam_Kapoor,terminal_Sonam_Kapoor_2,Directed,CHILD
+Sonam_Kapoor,Anil_Kapoor,Directed,PARENT
+Sonam_Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Rhea_Kapoor,terminal_Rhea_Kapoor_Karan_Boolani_m_2021,Directed,SPOUSE
+Rhea_Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Harsh_Varrdhan_Kapoor,Anil_Kapoor,Directed,PARENT
+Harsh_Varrdhan_Kapoor,List_of_Hindi_film_families#Kapoor_family_(of_Surinder_Kapoor),Directed,RELATIVE
+Veeru_Devgan,terminal_Veeru_Devgan_Veena_Devgan_m_1968,Directed,SPOUSE
+Veeru_Devgan,Ajay_Devgn,Directed,CHILD
+Veeru_Devgan,Kajol,Directed,CHILD
+Veeru_Devgan,Devgan_family,Directed,RELATIVE
+Javed_Akhtar,Honey_Irani,Directed,SPOUSE
+Javed_Akhtar,Shabana_Azmi,Directed,SPOUSE
+Javed_Akhtar,Zoya_Akhtar,Directed,CHILD
+Javed_Akhtar,Farhan_Akhtar,Directed,CHILD
+Javed_Akhtar,Fazl-e-Haq_Khairabadi,Directed,PARENT
+Javed_Akhtar,Muztar_Khairabadi,Directed,PARENT
+Javed_Akhtar,Hamida_Salim,Directed,PARENT
+Javed_Akhtar,Ansar_Harvani,Directed,PARENT
+Javed_Akhtar,Majaz,Directed,PARENT
+Javed_Akhtar,Salman_Akhtar,Directed,PARENT
+Honey_Irani,Javed_Akhtar,Directed,SPOUSE
+Honey_Irani,Zoya_Akhtar,Directed,CHILD
+Honey_Irani,Farhan_Akhtar,Directed,CHILD
+Honey_Irani,Daisy_Irani_(actress),Directed,SIBLING
+Honey_Irani,Farah_Khan,Directed,SIBLING
+Honey_Irani,Sajid_Khan_(director),Directed,SIBLING
+Rohit_Dhawan,terminal_Rohit_Dhawan_Jaanvi_Desai_m_2012,Directed,SPOUSE
+Rohit_Dhawan,terminal_Rohit_Dhawan_2,Directed,CHILD
+Rohit_Dhawan,David_Dhawan,Directed,PARENT
+Rohit_Dhawan,Varun_Dhawan,Directed,SIBLING
+Rohit_Dhawan,List_of_Hindi_film_families#Dhawan_family,Directed,RELATIVE
+Sunita_Gowariker,Ashutosh_Gowariker,Directed,SPOUSE
+Sunita_Gowariker,terminal_Sunita_Gowariker_2,Directed,CHILD
+Sunita_Gowariker,Deb_Mukherjee,Directed,PARENT
+Sukumari,A._Bhimsingh,Directed,SPOUSE
+Sukumari,terminal_Sukumari_1,Directed,CHILD
+Sukumari,List_of_South_Indian_film_families#Travancore_family,Directed,RELATIVE
+B._Lenin,A._Bhimsingh,Directed,PARENT
+B._Kannan,terminal_B._Kannan_Kanchana_Kannan,Directed,SPOUSE
+B._Kannan,A._Bhimsingh,Directed,PARENT
+B._Kannan,B._Lenin,Directed,SIBLING
+Mona_Shourie,Boney_Kapoor,Directed,SPOUSE
+Mona_Shourie,Arjun_Kapoor,Directed,CHILD
+Ravindra_Kapoor,Kamal_Kapoor,Directed,SIBLING
+Ravindra_Kapoor,Prithviraj_Kapoor,Directed,COUSIN
+Ravindra_Kapoor,Kapil_Kapoor,Directed,NEPHEW
+Ravindra_Kapoor,Kapoor_family,Directed,RELATIVE
+Ravindra_Kapoor,List_of_Hindi_film_families#Behl_family,Directed,RELATIVE
+Ramesh_Behl,terminal_Ramesh_Behl_Madhu_Behl,Directed,SPOUSE
+Ramesh_Behl,Goldie_Behl,Directed,CHILD
+Ramesh_Behl,Kamal_Kapoor,Directed,PARENT
+Ramesh_Behl,Rajendra_Kumar,Directed,PARENT
+Ramesh_Behl,Ishan_Arya,Directed,PARENT
+Ramesh_Behl,Ravi_Behl,Directed,PARENT
+Ramesh_Behl,List_of_Hindi_film_families#Behl_family,Directed,RELATIVE
+Goldie_Behl,Sonali_Bendre,Directed,SPOUSE
+Goldie_Behl,terminal_Goldie_Behl_1,Directed,CHILD
+Goldie_Behl,Ravi_Behl,Directed,COUSIN
+Goldie_Behl,Kamal_Kapoor,Directed,COUSIN
+Salma_Agha,Jawed_Sheikh,Directed,SPOUSE
+Salma_Agha,Rehmat_Khan,Directed,SPOUSE
+Salma_Agha,Zara_Khan,Directed,CHILD
+Salma_Agha,List_of_Hindi_film_families#Agha_family,Directed,RELATIVE
+Udita_Goswami,Mohit_Suri,Directed,SPOUSE
+Udita_Goswami,terminal_Udita_Goswami_2,Directed,CHILD
+Udita_Goswami,Bhatt_family,Directed,RELATIVE
+Jawed_Sheikh,terminal_Jawed_Sheikh_Zinat_Mangi,Directed,SPOUSE
+Jawed_Sheikh,Salma_Agha,Directed,SPOUSE
+Jawed_Sheikh,Shahzad_Sheikh,Directed,CHILD
+Jawed_Sheikh,Momal_Sheikh,Directed,CHILD
+Jawed_Sheikh,Saleem_Sheikh,Directed,SIBLING
+Jawed_Sheikh,Behroze_Sabzwari,Directed,SIBLING
+Jawed_Sheikh,Shehroz_Sabzwari,Directed,SIBLING
+Zara_Khan,Rehmat_Khan,Directed,PARENT
+Zara_Khan,Salma_Agha,Directed,PARENT
+Zara_Khan,Khan_squash_family,Directed,RELATIVE
+Nikhil_Nanda,Shweta_Bachchan_Nanda,Directed,SPOUSE
+Nikhil_Nanda,terminal_Nikhil_Nanda_2,Directed,CHILD
+Nikhil_Nanda,Kapoor_family,Directed,RELATIVE
+Nikhil_Nanda,Bachchan_family,Directed,RELATIVE
+Nandita_Mahtani,Sanjay_Kapur,Directed,SPOUSE
+R._Balki,Gauri_Shinde,Directed,SPOUSE
+Drewe_Henley,Jacqueline_Pearce,Directed,SPOUSE
+Drewe_Henley,Felicity_Kendal,Directed,SPOUSE
+Drewe_Henley,terminal_Drewe_Henley_Lyn_Henley_m_1983_died_2015,Directed,SPOUSE
+Drewe_Henley,Charley_Henley,Directed,CHILD
+Michael_Rudman,Felicity_Kendal,Directed,SPOUSE
+Michael_Rudman,terminal_Michael_Rudman_3,Directed,CHILD
+Charley_Henley,Drewe_Henley,Directed,PARENT
+Charley_Henley,Felicity_Kendal,Directed,PARENT
+Geoffrey_Kendal,terminal_Geoffrey_Kendal_Laura_Liddell_1933_1992_her_death,Directed,SPOUSE
+Geoffrey_Kendal,Jennifer_Kendal,Directed,CHILD
+Geoffrey_Kendal,Felicity_Kendal,Directed,CHILD
+Vishesh_Bhatt,Bhatt_family,Directed,RELATIVE
+Bimal_Roy,terminal_Bimal_Roy_Manobina_Roy,Directed,SPOUSE
+Bimal_Roy,Rinki_Bhattacharya,Directed,CHILD
+Brij_Sadanah,Sayeeda_Khan,Directed,SPOUSE
+Brij_Sadanah,Kamal_Sadanah,Directed,CHILD
+Kamal_Sadanah,terminal_Kamal_Sadanah_Lisa_John,Directed,SPOUSE
+Kamal_Sadanah,terminal_Kamal_Sadanah_Angath_Sadanah,Directed,CHILD
+Shagufta_Rafique,Sayeeda_Khan,Directed,SIBLING
+Jyothika,Suriya,Directed,SPOUSE
+Jyothika,terminal_Jyothika_2,Directed,CHILD
+Jyothika,List_of_Hindi_film_families#Sadanah_Family,Directed,RELATIVE
+Jyothika,List_of_South_Indian_film_families#Sivakumar_family,Directed,RELATIVE
+Himanshu_Rai,Devika_Rani,Directed,SPOUSE
+Himanshu_Rai,terminal_Himanshu_Rai_Nilima_Dietze_Hainlin_1926_1997,Directed,CHILD
+Svetoslav_Roerich,Devika_Rani,Directed,SPOUSE
+Svetoslav_Roerich,Nicholas_Roerich,Directed,PARENT
+Svetoslav_Roerich,Helena_Roerich,Directed,PARENT
+Svetoslav_Roerich,George_de_Roerich,Directed,SIBLING
+Pramatha_Chaudhuri,Indira_Devi_Chaudhurani,Directed,SPOUSE
+Pramatha_Chaudhuri,Prasannamoyee_Devi,Directed,SIBLING
+Pramatha_Chaudhuri,Priyamvada_Devi,Directed,SIBLING
+Rabindranath_Tagore,Mrinalini_Devi,Directed,SPOUSE
+Rabindranath_Tagore,Rathindranath_Tagore,Directed,CHILD
+Rabindranath_Tagore,Tagore_family,Directed,RELATIVE
+Girish_Karnad,terminal_Girish_Karnad_Saraswathy_Ganapathy,Directed,SPOUSE
+Girish_Karnad,Raghu_Karnad,Directed,CHILD
+Kamal_Amrohi,Meena_Kumari,Directed,SPOUSE
+Kamal_Amrohi,terminal_Kamal_Amrohi_3,Directed,CHILD
+Asrani_(actor),Manju_Asrani,Directed,SPOUSE
+Karan_Thapar,Pran_Nath_Thapar,Directed,PARENT
+Karan_Thapar,Daya_Ram_Thapar,Directed,UNCLE
+Karan_Thapar,Romesh_Thapar,Directed,UNCLE
+Karan_Thapar,Romila_Thapar,Directed,UNCLE
+Sanjay_Khan,Zeenat_Aman,Directed,SPOUSE
+Sanjay_Khan,Sussanne_Khan,Directed,CHILD
+Sanjay_Khan,Zayed_Khan,Directed,CHILD
+Sanjay_Khan,Feroz_Khan_(actor),Directed,SIBLING
+Sanjay_Khan,Akbar_Khan_(director),Directed,SIBLING
+Sanjay_Khan,Fardeen_Khan,Directed,NEPHEW
+"Mazhar_Khan_(actor,_born_1955)","terminal_Mazhar_Khan_(actor,_born_1955)_Rubaina_Separated",Directed,SPOUSE
+"Mazhar_Khan_(actor,_born_1955)",Zeenat_Aman,Directed,SPOUSE
+"Mazhar_Khan_(actor,_born_1955)","terminal_Mazhar_Khan_(actor,_born_1955)_3",Directed,CHILD
+Amjad_Khan_(actor),terminal_Amjad_Khan_(actor)_Shehla_Khan,Directed,SPOUSE
+Amjad_Khan_(actor),Shadaab_Khan,Directed,CHILD
+Amjad_Khan_(actor),Jayant_(actor),Directed,PARENT
+Amjad_Khan_(actor),Imtiaz_Khan,Directed,SIBLING
+Amjad_Khan_(actor),Akhtar_ul_Iman,Directed,SIBLING
+Amjad_Khan_(actor),Zafar_Karachiwala,Directed,SIBLING
+Kruttika_Desai,Imtiaz_Khan,Directed,SPOUSE
+Kruttika_Desai,terminal_Kruttika_Desai_Ayesha_Khan,Directed,CHILD
+Kruttika_Desai,Amjad_Khan_(actor),Directed,SIBLING
+Sombhu_Mitra,Tripti_Mitra,Directed,SPOUSE
+Sombhu_Mitra,Shaoli_Mitra,Directed,CHILD
+Sajid_Nadiadwala,Divya_Bharti,Directed,SPOUSE
+Ravi_Chopra,terminal_Ravi_Chopra_Renu_Chopra_m_1975,Directed,SPOUSE
+Ravi_Chopra,terminal_Ravi_Chopra_2,Directed,CHILD
+Ravi_Chopra,B.R._Chopra,Directed,PARENT
+Ravi_Chopra,List_of_Hindi_film_clans#Chopra_family,Directed,RELATIVE
+S._A._Chandrasekhar,Shoba_Chandrasekhar,Directed,SPOUSE
+S._A._Chandrasekhar,Vijay_(actor),Directed,CHILD
+S._A._Chandrasekhar,Vikranth,Directed,NEPHEW
+S._A._Chandrasekhar,S._N._Surendar,Directed,NEPHEW
+Viraj_(actor),S._N._Surendar,Directed,PARENT
+Vijayalakshmi_Feroz,terminal_Vijayalakshmi_Feroz_Feroz_Mohammed,Directed,SPOUSE
+Vijayalakshmi_Feroz,Niranjani_Ahathian,Directed,SIBLING
+Vijayalakshmi_Feroz,Thiru_(director),Directed,SIBLING
+Bina_Rai,Prem_Nath,Directed,SPOUSE
+Bina_Rai,terminal_Bina_Rai_2,Directed,CHILD
+Prem_Krishen,Prem_Nath,Directed,PARENT
+Prem_Krishen,Bina_Rai,Directed,PARENT
+Prem_Chopra,terminal_Prem_Chopra_Uma_Malhotra_m_1969,Directed,SPOUSE
+Prem_Chopra,terminal_Prem_Chopra_3,Directed,CHILD
+Prem_Chopra,Sharman_Joshi,Directed,CHILD
+Prem_Chopra,Vikas_Bhalla,Directed,CHILD
+Prem_Chopra,Prem_Nath,Directed,CHILD
+Prem_Chopra,Rajendra_Nath,Directed,CHILD
+Prem_Chopra,Narendra_Nath,Directed,CHILD
+Prem_Chopra,Raj_Kapoor,Directed,CHILD
+Siddharth_P._Malhotra,Prem_Kishen,Directed,PARENT
+Siddharth_P._Malhotra,Prem_Nath,Directed,PARENT
+Siddharth_P._Malhotra,Rajendra_Nath,Directed,PARENT
+Siddharth_P._Malhotra,Narendra_Nath,Directed,PARENT
+Abhishek_Pathak,Shivaleeka_Oberoi,Directed,SPOUSE
+Abhishek_Pathak,terminal_Abhishek_Pathak_Kumar_Mangat_Pathak_father,Directed,PARENT
+Abhishek_Pathak,terminal_Abhishek_Pathak_Neelam_Pathak_mother,Directed,PARENT
+Abhishek_Pathak,Amita_Pathak,Directed,SIBLING
+Jaya_Bachchan,Amitabh_Bachchan,Directed,SPOUSE
+Jaya_Bachchan,Shweta_Bachchan_Nanda,Directed,CHILD
+Jaya_Bachchan,Abhishek_Bachchan,Directed,CHILD
+Jaya_Bachchan,Bachchan_family,Directed,RELATIVE
+Imtiaz_Ali_(director),terminal_Imtiaz_Ali_(director)_Preety_Ali_m_1995,Directed,SPOUSE
+Imtiaz_Ali_(director),terminal_Imtiaz_Ali_(director)_1,Directed,CHILD
+Imtiaz_Ali_(director),Khalid_Ahmed,Directed,UNCLE
+Vinod_Mehra,Bindiya_Goswami,Directed,SPOUSE
+Vinod_Mehra,Soniya_Mehra,Directed,CHILD
+Vinod_Mehra,Rohan_Mehra_(born_1991),Directed,CHILD
+J.P._Dutta,Bindiya_Goswami,Directed,SPOUSE
+Rukhsana_Sultana,terminal_Rukhsana_Sultana_Shivinder_Singh_Virk_divorced,Directed,SPOUSE
+Rukhsana_Sultana,Amrita_Singh,Directed,CHILD
+Rukhsana_Sultana,Sara_Ali_Khan,Directed,CHILD
+Rukhsana_Sultana,Begum_Para,Directed,CHILD
+Rukhsana_Sultana,Nasir_Khan_(actor),Directed,CHILD
+Rukhsana_Sultana,Ayub_Khan_(actor),Directed,CHILD
+Iftikhar_Ali_Khan_Pataudi,terminal_Iftikhar_Ali_Khan_Pataudi_Muhammad_Ibrahim_Ali_Khan_Pataudi,Directed,PARENT
+Iftikhar_Ali_Khan_Pataudi,terminal_Iftikhar_Ali_Khan_Pataudi_Shahar_Bano_Begum,Directed,PARENT
+Sajida_Sultan,Iftikhar_Ali_Khan_Pataudi,Directed,SPOUSE
+Sajida_Sultan,Hamidullah_Khan,Directed,PARENT
+Sajida_Sultan,terminal_Sajida_Sultan_Maimoona_Sultan,Directed,PARENT
+Saba_Ali_Khan,Mansoor_Ali_Khan_Pataudi,Directed,PARENT
+Saba_Ali_Khan,Sharmila_Tagore,Directed,PARENT
+Soha_Ali_Khan,Kunal_Khemu,Directed,SPOUSE
+Soha_Ali_Khan,terminal_Soha_Ali_Khan_1,Directed,CHILD
+Soha_Ali_Khan,Mansoor_Ali_Khan_Pataudi,Directed,PARENT
+Soha_Ali_Khan,Sharmila_Tagore,Directed,PARENT
+Soha_Ali_Khan,Pataudi_family,Directed,RELATIVE
+Tagore_family,Shandilya,Directed,RELATIVE
+Pooja_Bhatt,Manish_Makhija,Directed,SPOUSE
+Pooja_Bhatt,Mahesh_Bhatt,Directed,PARENT
+Pooja_Bhatt,Bhatt_family,Directed,RELATIVE
+Masumeh_Makhija,Manish_Makhija,Directed,UNCLE
+Shomu_Mukherjee,Tanuja,Directed,SPOUSE
+Shomu_Mukherjee,Kajol,Directed,CHILD
+Shomu_Mukherjee,Tanisha_Mukherjee,Directed,CHILD
+Shomu_Mukherjee,Ram_Mukherjee,Directed,RELATIVE
+Shomu_Mukherjee,Mukherjee-Samarth_family,Directed,RELATIVE
+Shomu_Mukherjee,Ganguly_family,Directed,RELATIVE
+Tanishaa_Mukerji,Kajol,Directed,SIBLING
+Tanishaa_Mukerji,Mukherjee-Samarth_family,Directed,SIBLING
+Kumarsen_Samarth,Shobhana_Samarth,Directed,SPOUSE
+Kumarsen_Samarth,Nutan,Directed,CHILD
+Kumarsen_Samarth,Tanuja,Directed,CHILD
+Shobhna_Samarth,Kumarsen_Samarth,Directed,SPOUSE
+Shobhna_Samarth,Nutan,Directed,CHILD
+Shobhna_Samarth,Tanuja,Directed,CHILD
+Shobhna_Samarth,terminal_Shobhna_Samarth_Prabhakar_Shilotri_father,Directed,PARENT
+Shobhna_Samarth,Rattan_Bai,Directed,PARENT
+Shobhna_Samarth,Mukherjee-Samarth_family,Directed,RELATIVE
+Ajay_Devgn,Kajol,Directed,SPOUSE
+Ajay_Devgn,terminal_Ajay_Devgn_2,Directed,CHILD
+Ajay_Devgn,Veeru_Devgan,Directed,PARENT
+Ajay_Devgn,Devgan_family,Directed,RELATIVE
+Ajay_Devgn,Mukherjee-Samarth_family,Directed,RELATIVE
+Rani_Mukerji,Aditya_Chopra,Directed,SPOUSE
+Rani_Mukerji,terminal_Rani_Mukerji_1,Directed,CHILD
+Rani_Mukerji,Ram_Mukherjee,Directed,PARENT
+Rani_Mukerji,Mukherjee-Samarth_family,Directed,RELATIVE
+Rani_Mukerji,List_of_Hindi_film_clans#Chopra_family,Directed,RELATIVE
+Bejoy_Nambiar,Juhi_Babbar,Directed,SPOUSE
+Bejoy_Nambiar,Sheetal_Menon,Directed,SPOUSE
+Anup_Soni,Juhi_Babbar,Directed,SPOUSE
+Anup_Soni,terminal_Anup_Soni_3,Directed,CHILD
+Tinnu_Anand,terminal_Tinnu_Anand_Shahnaz_Anand,Directed,SPOUSE
+Tinnu_Anand,terminal_Tinnu_Anand_2_Isha_Anand_Diksha_Anand,Directed,CHILD
+Tinnu_Anand,Inder_Raj_Anand,Directed,PARENT
+Tinnu_Anand,Siddharth_Anand,Directed,NEPHEW
+Tinnu_Anand,Mukul_Anand,Directed,NEPHEW
+Tinnu_Anand,Agha_(actor),Directed,NEPHEW
+Tinnu_Anand,Jalal_Agha,Directed,NEPHEW
+Anurag_Kashyap,Aarti_Bajaj,Directed,SPOUSE
+Anurag_Kashyap,Kalki_Koechlin,Directed,SPOUSE
+Anurag_Kashyap,Abhinav_Kashyap,Directed,SIBLING
+Hema_Malini,Dharmendra,Directed,SPOUSE
+Hema_Malini,Esha_Deol,Directed,CHILD
+Hema_Malini,List_of_Hindi_film_clans#Deol_family,Directed,RELATIVE
+Sunny_Deol,terminal_Sunny_Deol_Lynda_Pooja_Deol_m_1984,Directed,SPOUSE
+Sunny_Deol,terminal_Sunny_Deol_2,Directed,CHILD
+Sunny_Deol,List_of_Hindi_film_families#Deol_family,Directed,RELATIVE
+Bobby_Deol,terminal_Bobby_Deol_Tanya_Ahuja_Deol_m_1996,Directed,SPOUSE
+Bobby_Deol,terminal_Bobby_Deol_2,Directed,CHILD
+Bobby_Deol,Dharmendra,Directed,PARENT
+Bobby_Deol,List_of_Hindi_film_families#Deol_family,Directed,RELATIVE
+Vikram_Bhatt,terminal_Vikram_Bhatt_3,Directed,CHILD
+Vikram_Bhatt,Pravin_Bhatt,Directed,PARENT
+Vikram_Bhatt,Vijay_Bhatt,Directed,PARENT
+Vikram_Bhatt,Arun_Bhatt,Directed,PARENT
+Vikram_Bhatt,Chirantan_Bhatt,Directed,PARENT
+Vikram_Bhatt,List_of_Hindi_film_families#Bhatt_family_(of_Vijay_Bhatt),Directed,RELATIVE
+Shabana_Azmi,Javed_Akhtar,Directed,SPOUSE
+Shabana_Azmi,Kaifi_Azmi,Directed,PARENT
+Shabana_Azmi,Shaukat_Kaifi,Directed,PARENT
+Shabana_Azmi,Baba_Azmi,Directed,SIBLING
+Shabana_Azmi,List_of_Hindi_film_families#Akhtar–Azmi–Kher_family,Directed,RELATIVE
+Zoya_Akhtar,Javed_Akhtar,Directed,PARENT
+Zoya_Akhtar,Honey_Irani,Directed,PARENT
+Zoya_Akhtar,List_of_Hindi_film_clans#Akhtar–Azmi–_family,Directed,RELATIVE
+Farhan_Akhtar,Adhuna_Bhabani,Directed,SPOUSE
+Farhan_Akhtar,Shibani_Dandekar,Directed,SPOUSE
+Farhan_Akhtar,List_of_Hindi_film_clans#Akhtar-Azmi_family,Directed,RELATIVE
+Muztar_Khairabadi,Jan_Nisar_Akhtar,Directed,CHILD
+Muztar_Khairabadi,Fazl-e-Haq_Khairabadi,Directed,PARENT
+Muztar_Khairabadi,Javed_Akhtar,Directed,PARENT
+Muztar_Khairabadi,Salman_Akhtar,Directed,PARENT
+Muztar_Khairabadi,Zoya_Akhtar,Directed,PARENT
+Muztar_Khairabadi,Farhan_Akhtar,Directed,PARENT
+Ansar_Harvani,terminal_Ansar_Harvani_Sahaibzadi_Gauhar_Ara,Directed,SPOUSE
+Ansar_Harvani,terminal_Ansar_Harvani_1_son_and_3_daughters,Directed,CHILD
+Ansar_Harvani,Hamida_Salim,Directed,SIBLING
+Ansar_Harvani,Majaz,Directed,SIBLING
+Ansar_Harvani,Javed_Akhtar,Directed,SIBLING
+Ansar_Harvani,Salman_Akhtar,Directed,SIBLING
+Ansar_Harvani,Farhan_Akhtar,Directed,SIBLING
+Majaz,Hamida_Salim,Directed,SIBLING
+Majaz,Ansar_Harvani,Directed,SIBLING
+Majaz,Javed_Akhtar,Directed,SIBLING
+Majaz,Salman_Akhtar,Directed,SIBLING
+Majaz,Farhan_Akhtar,Directed,SIBLING
+Salman_Akhtar,terminal_Salman_Akhtar_Monisha_Nayar,Directed,SPOUSE
+Salman_Akhtar,Kabir_Akhtar,Directed,CHILD
+Salman_Akhtar,Jan_Nisar_Akhtar,Directed,PARENT
+Salman_Akhtar,Javed_Akhtar,Directed,SIBLING
+Salman_Akhtar,Farhan_Akhtar,Directed,SIBLING
+Salman_Akhtar,Zoya_Akhtar,Directed,SIBLING
+Daisy_Irani_(actress),terminal_Daisy_Irani_(actress)_K_K_Shukla_m_1971_died_1993,Directed,SPOUSE
+Daisy_Irani_(actress),terminal_Daisy_Irani_(actress)_3,Directed,CHILD
+Daisy_Irani_(actress),Honey_Irani,Directed,SIBLING
+Daisy_Irani_(actress),Zoya_Akhtar,Directed,SIBLING
+Daisy_Irani_(actress),Javed_Akhtar,Directed,SIBLING
+Daisy_Irani_(actress),Farhan_Akhtar,Directed,SIBLING
+Daisy_Irani_(actress),Farah_Khan,Directed,SIBLING
+Daisy_Irani_(actress),Sajid_Khan_(director),Directed,SIBLING
+Farah_Khan,Shirish_Kunder,Directed,SPOUSE
+Farah_Khan,terminal_Farah_Khan_3,Directed,CHILD
+Farah_Khan,Honey_Irani,Directed,AUNT
+Farah_Khan,Daisy_Irani_(actress),Directed,AUNT
+Farah_Khan,Sajid_Khan_(director),Directed,SIBLING
+Farah_Khan,Zoya_Akhtar,Directed,COUSIN
+Farah_Khan,Farhan_Akhtar,Directed,COUSIN
+Sajid_Khan_(director),Honey_Irani,Directed,AUNT
+Sajid_Khan_(director),Daisy_Irani_(actress),Directed,AUNT
+Sajid_Khan_(director),Farah_Khan,Directed,SIBLING
+Sajid_Khan_(director),Zoya_Akhtar,Directed,COUSIN
+Sajid_Khan_(director),Farhan_Akhtar,Directed,COUSIN
+Sajid_Khan_(director),Shirish_Kunder,Directed,SIBLING
+Ashutosh_Gowariker,Sunita_Gowariker,Directed,SPOUSE
+Deb_Mukherjee,Sunita_Gowariker,Directed,CHILD
+Deb_Mukherjee,Ayan_Mukerji,Directed,CHILD
+Deb_Mukherjee,Sashadhar_Mukherjee,Directed,PARENT
+Deb_Mukherjee,Ashutosh_Gowariker,Directed,CHILD
+Deb_Mukherjee,Ganguly_family,Directed,RELATIVE
+Deb_Mukherjee,Mukherjee-Samarth_family,Directed,RELATIVE
+A._Bhimsingh,Sukumari,Directed,SPOUSE
+A._Bhimsingh,B._Lenin,Directed,CHILD
+A._Bhimsingh,B._Kannan,Directed,CHILD
+A._Bhimsingh,List_of_South_Indian_film_families#Travancore_family,Directed,RELATIVE
+Rajendra_Kumar,terminal_Rajendra_Kumar_Shukla_Tuli_1999,Directed,SPOUSE
+Rajendra_Kumar,Kumar_Gaurav,Directed,CHILD
+Rajendra_Kumar,Raju_Patel,Directed,CHILD
+Rajendra_Kumar,Ramesh_Behl,Directed,CHILD
+Rajendra_Kumar,O._P._Ralhan,Directed,CHILD
+Ishan_Arya,Sulbha_Arya,Directed,SPOUSE
+Ishan_Arya,terminal_Ishan_Arya_Sameer_Arya_Sagar_Arya,Directed,CHILD
+Ishan_Arya,Ramesh_Behl,Directed,CHILD
+Ishan_Arya,Shaukat_Kaifi,Directed,CHILD
+Ishan_Arya,Shabana_Azmi,Directed,CHILD
+Ishan_Arya,Baba_Azmi,Directed,CHILD
+Ishan_Arya,List_of_Hindi_film_families#Akhtar-Azmi_family,Directed,RELATIVE
+Ishan_Arya,List_of_Hindi_film_families#Behl_family,Directed,RELATIVE
+Ravi_Behl,Ramesh_Behl,Directed,UNCLE
+Ravi_Behl,Goldie_Behl,Directed,UNCLE
+Ravi_Behl,List_of_Hindi_film_families#Behl_family,Directed,RELATIVE
+Sonali_Bendre,Goldie_Behl,Directed,SPOUSE
+Sonali_Bendre,terminal_Sonali_Bendre_1,Directed,CHILD
+Sonali_Bendre,List_of_Hindi_film_families#Behl_family,Directed,RELATIVE
+Shahzad_Sheikh,terminal_Shahzad_Sheikh_Hina_Mir_m_2012,Directed,SPOUSE
+Shahzad_Sheikh,terminal_Shahzad_Sheikh_2,Directed,CHILD
+Shahzad_Sheikh,Jawed_Sheikh,Directed,PARENT
+Shahzad_Sheikh,Momal_Sheikh,Directed,SIBLING
+Shahzad_Sheikh,Behroze_Sabzwari,Directed,SIBLING
+Shahzad_Sheikh,Saleem_Sheikh,Directed,SIBLING
+Shahzad_Sheikh,Shehroz_Sabzwari,Directed,SIBLING
+Momal_Sheikh,Shahzad_Sheikh,Directed,SIBLING
+Momal_Sheikh,Behroze_Sabzwari,Directed,SIBLING
+Momal_Sheikh,Saleem_Sheikh,Directed,SIBLING
+Momal_Sheikh,Shehroz_Sabzwari,Directed,SIBLING
+Saleem_Sheikh,terminal_Saleem_Sheikh_Nosheen_Saleem_1999_present,Directed,SPOUSE
+Saleem_Sheikh,Jawed_Sheikh,Directed,SIBLING
+Saleem_Sheikh,Behroze_Sabzwari,Directed,SIBLING
+Saleem_Sheikh,Shahzad_Sheikh,Directed,SIBLING
+Saleem_Sheikh,Momal_Sheikh,Directed,SIBLING
+Saleem_Sheikh,Shehroz_Sabzwari,Directed,SIBLING
+Behroze_Sabzwari,Shahroz_Sabzwari,Directed,CHILD
+Behroze_Sabzwari,Javed_Sheikh,Directed,SIBLING
+Behroze_Sabzwari,Saleem_Sheikh,Directed,SIBLING
+Behroze_Sabzwari,Shahzad_Sheikh,Directed,NEPHEW
+Behroze_Sabzwari,Momal_Sheikh,Directed,NIECE
+Shehroz_Sabzwari,Syra_Yousuf,Directed,SPOUSE
+Shehroz_Sabzwari,Sadaf_Kanwal,Directed,SPOUSE
+Shehroz_Sabzwari,Jawed_Sheikh,Directed,UNCLE
+Shehroz_Sabzwari,Shahzad_Sheikh,Directed,UNCLE
+Shehroz_Sabzwari,Momal_Sheikh,Directed,UNCLE
+Sanjay_Kapur,Nandita_Mahtani,Directed,SPOUSE
+Sanjay_Kapur,Karisma_Kapoor,Directed,SPOUSE
+Sanjay_Kapur,terminal_Sanjay_Kapur_3,Directed,CHILD
+Jacqueline_Pearce,Drewe_Henley,Directed,SPOUSE
+Suriya,Jyothika,Directed,SPOUSE
+Suriya,terminal_Suriya_2,Directed,CHILD
+Suriya,Sivakumar,Directed,PARENT
+Suriya,List_of_South_Indian_film_families#Sivakumar_family,Directed,RELATIVE
+Nicholas_Roerich,Helena_Roerich,Directed,SPOUSE
+Nicholas_Roerich,George_de_Roerich,Directed,CHILD
+Nicholas_Roerich,Svetoslav_Roerich,Directed,CHILD
+George_de_Roerich,Nicholas_Roerich,Directed,PARENT
+George_de_Roerich,Helena_Roerich,Directed,PARENT
+George_de_Roerich,Svetoslav_Roerich,Directed,SIBLING
+George_de_Roerich,Devika_Rani,Directed,SIBLING
+Indira_Devi_Chaudhurani,Pramatha_Chaudhuri,Directed,SPOUSE
+Indira_Devi_Chaudhurani,Satyendranath_Tagore,Directed,PARENT
+Indira_Devi_Chaudhurani,Jnanadanandini_Devi,Directed,PARENT
+Indira_Devi_Chaudhurani,Rabindranath_Tagore,Directed,UNCLE
+Prasannamoyee_Devi,Priyamvada_Devi,Directed,CHILD
+Prasannamoyee_Devi,Pramatha_Chaudhuri,Directed,SIBLING
+Priyamvada_Devi,Prasannamoyee_Devi,Directed,PARENT
+Priyamvada_Devi,Pramatha_Chaudhuri,Directed,UNCLE
+Mrinalini_Devi,Rabindranath_Tagore,Directed,SPOUSE
+Mrinalini_Devi,Rathindranath_Tagore,Directed,CHILD
+Rathindranath_Tagore,Pratima_Devi_(painter),Directed,SPOUSE
+Rathindranath_Tagore,terminal_Rathindranath_Tagore_Nandini_adopted_Jayabrato_foster,Directed,CHILD
+Sussanne_Khan,Hrithik_Roshan,Directed,SPOUSE
+Sussanne_Khan,terminal_Sussanne_Khan_2,Directed,CHILD
+Sussanne_Khan,Sanjay_Khan,Directed,PARENT
+Sussanne_Khan,terminal_Sussanne_Khan_Zarine_khan_died_7_November_2025_mother,Directed,PARENT
+Sussanne_Khan,Zayed_Khan,Directed,SIBLING
+Sussanne_Khan,Feroz_Khan_(actor),Directed,UNCLE
+Sussanne_Khan,Akbar_Khan_(director),Directed,UNCLE
+Sussanne_Khan,Fardeen_Khan,Directed,COUSIN
+Zayed_Khan,terminal_Zayed_Khan_Malaika_Parekh_m_2005,Directed,SPOUSE
+Zayed_Khan,terminal_Zayed_Khan_2,Directed,CHILD
+Zayed_Khan,Sanjay_Khan,Directed,PARENT
+Zayed_Khan,terminal_Zayed_Khan_Zarine_Khan_mother,Directed,PARENT
+Zayed_Khan,Sussanne_Khan,Directed,SIBLING
+Zayed_Khan,Feroz_Khan_(actor),Directed,UNCLE
+Zayed_Khan,Akbar_Khan_(director),Directed,UNCLE
+Zayed_Khan,Fardeen_Khan,Directed,COUSIN
+Feroz_Khan_(actor),terminal_Feroz_Khan_(actor)_Sundari_Khan_m_1965_div_1985,Directed,SPOUSE
+Feroz_Khan_(actor),Fardeen_Khan,Directed,CHILD
+Feroz_Khan_(actor),Sanjay_Khan,Directed,SIBLING
+Feroz_Khan_(actor),Akbar_Khan_(director),Directed,SIBLING
+Feroz_Khan_(actor),Sussanne_Khan,Directed,SIBLING
+Feroz_Khan_(actor),Zayed_Khan,Directed,SIBLING
+Akbar_Khan_(director),Feroz_Khan_(actor),Directed,SIBLING
+Akbar_Khan_(director),Sanjay_Khan,Directed,SIBLING
+Akbar_Khan_(director),Fardeen_Khan,Directed,NEPHEW
+Akbar_Khan_(director),Sussanne_Khan,Directed,NIECE
+Akbar_Khan_(director),Zayed_Khan,Directed,NEPHEW
+Akbar_Khan_(director),List_of_Hindi_film_families#Khan_family_(of_Feroz_Khan),Directed,RELATIVE
+Fardeen_Khan,terminal_Fardeen_Khan_Natasha_Madhvani_m_2005,Directed,SPOUSE
+Fardeen_Khan,terminal_Fardeen_Khan_2,Directed,CHILD
+Fardeen_Khan,Sanjay_Khan,Directed,UNCLE
+Fardeen_Khan,Akbar_Khan_(director),Directed,UNCLE
+Fardeen_Khan,Zayed_Khan,Directed,COUSIN
+Fardeen_Khan,Sussanne_Khan,Directed,COUSIN
+Fardeen_Khan,List_of_Hindi_film_families#Khan_family_(of_Feroz_Khan),Directed,RELATIVE
+Sharman_Joshi,terminal_Sharman_Joshi_Prerana_Chopra_m_2000,Directed,SPOUSE
+Sharman_Joshi,terminal_Sharman_Joshi_3,Directed,CHILD
+Sharman_Joshi,Arvind_Joshi,Directed,PARENT
+Sharman_Joshi,List_of_Hindi_film_clans#Roy–Joshi–Irani-Desai_family,Directed,RELATIVE
+Vikas_Bhalla,terminal_Vikas_Bhalla_Punita_Chopra_m_1996,Directed,SPOUSE
+Vikas_Bhalla,terminal_Vikas_Bhalla_Sanchi_Bhalla_daughter_Veer_Bhalla_son,Directed,CHILD
+Vikas_Bhalla,Prem_Chopra,Directed,PARENT
+Vikas_Bhalla,Sharman_Joshi,Directed,PARENT
+Soniya_Mehra,Vinod_Mehra,Directed,PARENT
+Soniya_Mehra,Rohan_Mehra_(born_1991),Directed,SIBLING
+Rohan_Mehra_(born_1991),Soniya_Mehra,Directed,SIBLING
+Begum_Para,Nasir_Khan_(actor),Directed,SPOUSE
+Begum_Para,Ayub_Khan_(actor),Directed,CHILD
+Begum_Para,Dilip_Kumar,Directed,SIBLING
+Begum_Para,Rukhsana_Sultana,Directed,SIBLING
+Begum_Para,Amrita_Singh,Directed,SIBLING
+Begum_Para,Saira_Banu,Directed,SIBLING
+Nasir_Khan_(actor),terminal_Nasir_Khan_(actor)_Suraya_Nazir,Directed,SPOUSE
+Nasir_Khan_(actor),Begum_Para,Directed,SPOUSE
+Nasir_Khan_(actor),Ayub_Khan_(actor),Directed,CHILD
+Nasir_Khan_(actor),Dilip_Kumar,Directed,SIBLING
+Nasir_Khan_(actor),Saira_Banu,Directed,SIBLING
+Nasir_Khan_(actor),K._Asif,Directed,SIBLING
+Nasir_Khan_(actor),Rukhsana_Sultana,Directed,SIBLING
+Ayub_Khan_(actor),Niharika_Bhasin,Directed,SPOUSE
+Ayub_Khan_(actor),terminal_Ayub_Khan_(actor)_Tahura_Khan_daughter,Directed,CHILD
+Ayub_Khan_(actor),terminal_Ayub_Khan_(actor)_Zayra_Khan_daughter,Directed,CHILD
+Ayub_Khan_(actor),Nasir_Khan_(actor),Directed,PARENT
+Ayub_Khan_(actor),Begum_Para,Directed,PARENT
+Ayub_Khan_(actor),List_of_Hindi_film_families#Khan-Banu_family_(of_Yusuf_Khan_aka_Dilip_Kumar_and_Saira_Banu),Directed,RELATIVE
+Hamidullah_Khan,"Kaikhusrau_Jahan,_Begum_of_Bhopal",Directed,PARENT
+Kunal_Khemu,Soha_Ali_Khan,Directed,SPOUSE
+Kunal_Khemu,terminal_Kunal_Khemu_1,Directed,CHILD
+Kunal_Khemu,Moti_Lal_Kemmu,Directed,PARENT
+Kunal_Khemu,Pataudi_family,Directed,RELATIVE
+Kunal_Khemu,Tagore_family,Directed,RELATIVE
+Shobhana_Samarth,Kumarsen_Samarth,Directed,SPOUSE
+Shobhana_Samarth,Nutan,Directed,CHILD
+Shobhana_Samarth,Tanuja,Directed,CHILD
+Shobhana_Samarth,terminal_Shobhana_Samarth_Prabhakar_Shilotri_father,Directed,PARENT
+Shobhana_Samarth,Rattan_Bai,Directed,PARENT
+Shobhana_Samarth,Mukherjee-Samarth_family,Directed,RELATIVE
+Nutan,terminal_Nutan_Rajnish_Bahl_m_1959,Directed,SPOUSE
+Nutan,Mohnish_Bahl,Directed,CHILD
+Nutan,Kumarsen_Samarth,Directed,PARENT
+Nutan,Shobhna_Samarth,Directed,PARENT
+Nutan,Mukherjee-Samarth_family,Directed,RELATIVE
+Aditya_Chopra,terminal_Aditya_Chopra_Payal_Khanna_m_2001_div_2009,Directed,SPOUSE
+Aditya_Chopra,Rani_Mukerji,Directed,SPOUSE
+Aditya_Chopra,terminal_Aditya_Chopra_1,Directed,CHILD
+Aditya_Chopra,Yash_Chopra,Directed,PARENT
+Aditya_Chopra,Pamela_Chopra,Directed,PARENT
+Aditya_Chopra,List_of_Hindi_film_clans#Chopra-Johar_family,Directed,RELATIVE
+Aditya_Chopra,Mukherjee-Samarth_family,Directed,RELATIVE
+Kaifi_Azmi,Shaukat_Kaifi,Directed,SPOUSE
+Kaifi_Azmi,Shabana_Azmi,Directed,CHILD
+Kaifi_Azmi,Baba_Azmi,Directed,CHILD
+Shaukat_Kaifi,Kaifi_Azmi,Directed,SPOUSE
+Shaukat_Kaifi,Shabana_Azmi,Directed,CHILD
+Shaukat_Kaifi,Baba_Azmi,Directed,CHILD
+Shaukat_Kaifi,Ishan_Arya,Directed,NEPHEW
+Shaukat_Kaifi,List_of_Hindi_film_families#Akhtar-Azmi_family,Directed,RELATIVE
+Baba_Azmi,Tanvi_Azmi,Directed,SPOUSE
+Baba_Azmi,Kaifi_Azmi,Directed,PARENT
+Baba_Azmi,Shaukat_Kaifi,Directed,PARENT
+Baba_Azmi,Shabana_Azmi,Directed,SIBLING
+Baba_Azmi,Ishan_Arya,Directed,SIBLING
+Baba_Azmi,List_of_Hindi_film_clans#Akhtar-Azmi_family,Directed,RELATIVE
+Adhuna_Bhabani,Farhan_Akhtar,Directed,SPOUSE
+Adhuna_Bhabani,terminal_Adhuna_Bhabani_2,Directed,CHILD
+Adhuna_Bhabani,List_of_Hindi_film_clans#Akhtar-Azmi_family,Directed,RELATIVE
+Shibani_Dandekar,Farhan_Akhtar,Directed,SPOUSE
+Shibani_Dandekar,Anusha_Dandekar,Directed,SIBLING
+Jan_Nisar_Akhtar,terminal_Jan_Nisar_Akhtar_Safiya_Siraj_ul_Haq,Directed,SPOUSE
+Jan_Nisar_Akhtar,terminal_Jan_Nisar_Akhtar_Khadija_Talat,Directed,SPOUSE
+Jan_Nisar_Akhtar,Javed_Akhtar,Directed,CHILD
+Jan_Nisar_Akhtar,Salman_Akhtar,Directed,CHILD
+Jan_Nisar_Akhtar,Muztar_Khairabadi,Directed,PARENT
+Jan_Nisar_Akhtar,Fazl-e-Haq_Khairabadi,Directed,PARENT
+Shirish_Kunder,Farah_Khan,Directed,SPOUSE
+Shirish_Kunder,terminal_Shirish_Kunder_3,Directed,CHILD
+Ayan_Mukerji,Mukherjee-Samarth_family,Directed,RELATIVE
+Sashadhar_Mukherjee,terminal_Sashadhar_Mukherjee_Sati_Devi,Directed,SPOUSE
+Sashadhar_Mukherjee,Joy_Mukherjee,Directed,CHILD
+Sashadhar_Mukherjee,Deb_Mukherjee,Directed,CHILD
+Sashadhar_Mukherjee,Shomu_Mukherjee,Directed,CHILD
+Sashadhar_Mukherjee,Ashok_Kumar,Directed,SIBLING
+Sashadhar_Mukherjee,Anoop_Kumar,Directed,SIBLING
+Sashadhar_Mukherjee,Kishore_Kumar,Directed,SIBLING
+Sashadhar_Mukherjee,Mukherjee-Samarth_family,Directed,RELATIVE
+Kumar_Gaurav,terminal_Kumar_Gaurav_Namrata_Dutt_m_1984,Directed,SPOUSE
+Kumar_Gaurav,Sunil_Dutt,Directed,PARENT
+Kumar_Gaurav,Nargis,Directed,PARENT
+Kumar_Gaurav,Sanjay_Dutt,Directed,PARENT
+Raju_Patel,terminal_Raju_Patel_Dimple_Kumar,Directed,SPOUSE
+Raju_Patel,terminal_Raju_Patel_3,Directed,CHILD
+Raju_Patel,Rajendra_Kumar,Directed,PARENT
+O._P._Ralhan,Rajendra_Kumar,Directed,SIBLING
+Sulbha_Arya,Ishan_Arya,Directed,SPOUSE
+Sulbha_Arya,terminal_Sulbha_Arya_2,Directed,CHILD
+Sulbha_Arya,Ramesh_Behl,Directed,CHILD
+Sulbha_Arya,List_of_Hindi_film_families#Akhtar-Azmi_family,Directed,RELATIVE
+Sulbha_Arya,List_of_Hindi_film_families#Behl_family,Directed,RELATIVE
+Shahroz_Sabzwari,Syra_Yousuf,Directed,SPOUSE
+Shahroz_Sabzwari,Sadaf_Kanwal,Directed,SPOUSE
+Shahroz_Sabzwari,Jawed_Sheikh,Directed,UNCLE
+Shahroz_Sabzwari,Shahzad_Sheikh,Directed,UNCLE
+Shahroz_Sabzwari,Momal_Sheikh,Directed,UNCLE
+Javed_Sheikh,terminal_Javed_Sheikh_Zinat_Mangi,Directed,SPOUSE
+Javed_Sheikh,Salma_Agha,Directed,SPOUSE
+Javed_Sheikh,Shahzad_Sheikh,Directed,CHILD
+Javed_Sheikh,Momal_Sheikh,Directed,CHILD
+Javed_Sheikh,Saleem_Sheikh,Directed,SIBLING
+Javed_Sheikh,Behroze_Sabzwari,Directed,SIBLING
+Javed_Sheikh,Shehroz_Sabzwari,Directed,SIBLING
+Syra_Yousuf,Shahroz_Sabzwari,Directed,SPOUSE
+Syra_Yousuf,terminal_Syra_Yousuf_1,Directed,CHILD
+Syra_Yousuf,Alishba_Yousuf,Directed,SIBLING
+Sadaf_Kanwal,Shehroz_Sabzwari,Directed,SPOUSE
+Sadaf_Kanwal,terminal_Sadaf_Kanwal_1,Directed,CHILD
+Sadaf_Kanwal,Salma_Mumtaz,Directed,PARENT
+Sadaf_Kanwal,Shammi_(Pakistani_actress),Directed,PARENT
+Sadaf_Kanwal,Nida_Mumtaz,Directed,PARENT
