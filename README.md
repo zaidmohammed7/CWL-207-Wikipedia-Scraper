@@ -5,9 +5,10 @@ An advanced Wikipedia scraper and graph generator designed to map familial conne
 ## 🚀 Features
 - **Deterministic Disambiguation**: Identifies people by unique Wikipedia PageIDs/slugs, not ambiguous name strings.
 - **Familial Edge Scope**: Maps Parent, Child, Spouse, Sibling, and Relative connections exclusively.
-- **Recursive BFS Traversal**: Scrapes up to a depth of 3 from initial seed categories.
+- **Recursive BFS Traversal**: Scrapes major Indian film lists and families (depth-limited).
+- **Smart Merge Deduplication**: Automatically resolves duplicate entries using URL matching and neighbor overlap algorithms.
 - **Terminal Node Detection**: Identifies relatives mentioned in plain text (without Wiki links) as Terminal Nodes for a complete graph.
-- **Interactive Visualization**: Generates a zoomable, color-coded HTML network map using Vis.js.
+- **Optimized Visualization**: High-performance "Big Data" settings for Vis.js with physics-freezing and straight-edge rendering.
 
 ## 📁 Repository Structure
 - `src/wiki_api.py`: Handles category crawling and URL canonicalization via MediaWiki API.
@@ -28,9 +29,11 @@ An advanced Wikipedia scraper and graph generator designed to map familial conne
 
 ## 📊 How to Use
 1. **Run the Full Crawl**:
-   Execute the orchestrator to scrape Wikipedia and generate the CSV datasets (`bollywood_nodes.csv` and `bollywood_edges.csv`).
+   Execute the orchestrator to scrape Wikipedia and generate the CSV datasets.
+   > [!NOTE]
+   > The discovery phase uses aggressive list-based seeding. The full crawl can take several minutes to an hour depending on network conditions due to the mandatory 1-second delay between requests.
    ```bash
-   python src/main.py
+   python -m src.main
    ```
 2. **Generate Visualization**:
    Run the visualization script to create the interactive HTML map.
@@ -38,7 +41,9 @@ An advanced Wikipedia scraper and graph generator designed to map familial conne
    python src/visualize.py
    ```
 3. **View the Map**:
-   Open `bollywood_dynasties.html` in your web browser.
+   Open `bollywood_dynasties.html`. 
+   > [!WARNING]
+   > With 1,000+ members, the page will show a "**Calculating Family Trees...**" overlay while it computes the optimized layout. This can take 10-30 seconds. The map will "freeze" once stable for maximum responsiveness.
 
 ## 🎨 Visualization Key
 - 🔵 **Blue Nodes**: Linked Wikipedia Entities (have their own pages).

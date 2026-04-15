@@ -7,6 +7,27 @@ class BollywoodGraph:
         # Edges: [ (source, target, relation) ]
         self.edges = []
 
+    def load_from_csv(self, nodes_filename: str, edges_filename: str):
+        """Loads existing graph data from CSV files."""
+        import os
+        if os.path.exists(nodes_filename):
+            with open(nodes_filename, 'r', newline='', encoding='utf-8') as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    self.nodes[row['ID']] = {
+                        'name': row['Label'],
+                        'is_terminal': row['IsTerminal'] == 'True',
+                        'canonical_url': row['URL']
+                    }
+        
+        if os.path.exists(edges_filename):
+            with open(edges_filename, 'r', newline='', encoding='utf-8') as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    self.edges.append((row['Source'], row['Target'], row['Relation']))
+        
+        print(f"Graph loaded: {len(self.nodes)} nodes, {len(self.edges)} edges.")
+
     def add_person(self, slug: str, name: str, is_terminal: bool = False, canonical_url: str = ""):
         """Adds or updates a person node in the graph."""
         if slug not in self.nodes:
